@@ -1,18 +1,69 @@
-# Hi 👋, I'm juushimatsu
+<!-- Profile README — juushimatsu -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juushimatsu&label=Profile views&color=0e75b6&style=flat" alt="juushimatsu" /> </p>
+<div align="center">
 
-- 🔭 I'm currently working on **[Exclave olcrtc support](https://github.com/Oleglog/Exclave_FORK)**
+```
+   _              _    _            _           
+  (_)_  _ _  _ __| |_ (_)_ __  __ _| |_ ____  _ 
+  | | || | || (_-< ' \| | '  \/ _` |  _(_-< || |
+ _/ |\_,_|\_,_/__/_||_|_|_|_|_\__,_|\__/__/\_,_|
+|__/                                            
+```
 
-- 🌱 I'm currently learning **Django, Fast API, Go**
+</div>
 
-- 🤝 I'm looking for help with **[olcrtc fork](https://github.com/Oleglog/olcrtc_FORK)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/juushimatsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="juushimatsu" height="30" width="40" /></a>
-</p>
+```
+> backend developer  ·  open source contributor  ·  learning in public
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<br>
 
+**Currently**
+
+```yaml
+working_on : Exclave — olcrtc WebRTC support layer
+learning   : Django · FastAPI · Go
+looking_for: contributors to olcrtc fork
+```
+
+<br>
+
+**Stack**
+
+```
+Languages     Python  ·  JavaScript  ·  PHP  ·  C++ (Qt)
+Backend       Django  ·  FastAPI  ·  Node.js  ·  Express  ·  Nginx
+Data          Pandas  ·  PyTorch  ·  TensorFlow
+Databases     MySQL  ·  SQLite  ·  Redis
+Tools         Git  ·  Linux  ·  Docker  ·  Arduino  ·  Unity
+Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
+```
+
+<br>
+
+**Projects**
+
+| repo | description |
+|------|-------------|
+| [Exclave_FORK](https://github.com/Oleglog/Exclave_FORK) | WebRTC support via olcrtc |
+| [olcrtc_FORK](https://github.com/Oleglog/olcrtc_FORK) | olcrtc library fork — help wanted |
+
+<br>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=juushimatsu&color=ffffff&style=flat&label=profile+views)
+&nbsp;&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juushimatsu&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=888888&bg_color=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+<sub>reach me via GitHub issues or discussions</sub>
+</div>
