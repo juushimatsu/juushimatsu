@@ -1,4 +1,4 @@
-<!-- Profile README — juushimatsu -->
+<!-- Profile README - juushimatsu -->
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 **Currently**
 
 ```yaml
-working_on : Exclave — olcrtc WebRTC support layer
+working_on : Exclave - olcrtc WebRTC support layer
 learning   : Django · FastAPI · Go
 looking_for: contributors to olcrtc fork
 ```
@@ -48,7 +48,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 | repo | description |
 |------|-------------|
 | [Exclave_FORK](https://github.com/Oleglog/Exclave_FORK) | WebRTC support via olcrtc |
-| [olcrtc_FORK](https://github.com/Oleglog/olcrtc_FORK) | olcrtc library fork — help wanted |
+| [olcrtc_FORK](https://github.com/Oleglog/olcrtc_FORK) | olcrtc library fork - help wanted |
 
 <br>
 
