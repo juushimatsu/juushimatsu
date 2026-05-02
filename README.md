@@ -58,7 +58,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 ![Profile views](https://komarev.com/ghpvc/?username=juushimatsu&color=ffffff&style=flat&label=profile+views)
 &nbsp;&nbsp;
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juushimatsu&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=888888&bg_color=0d1117)
 
 </div>
 
