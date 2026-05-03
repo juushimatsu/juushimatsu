@@ -1,5 +1,4 @@
 <!-- Profile README - juushimatsu -->
-
 <div align="center">
 
 ```
@@ -26,6 +25,7 @@
 working_on : Exclave - olcrtc WebRTC support layer
 learning   : Django · FastAPI · Go
 looking_for: contributors to olcrtc fork
+location   : private void ()
 ```
 
 <br>
@@ -45,14 +45,38 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 **Projects**
 
-**Projects**
 | repo | description |
 |------|-------------|
 | [Exclave_olcrtc](https://github.com/Oleglog/Exclave_olcrtc) | WebRTC support via olcrtc |
-| [olcrtc_manager](https://github.com/Oleglog/Olcrtc_manager) | olcrtc library fork - help wanted |
+| [olcrtc_manager](https://github.com/Oleglog/Olcrtc_manager) | olcrtc library fork — help wanted |
 | [Upgrading-Windows-rights](https://github.com/juushimatsu/Upgrading-Windows-rights-or-how-to-play-games-on-a-school-PC) | guide: privilege escalation on locked school PCs |
 | [Duplicating-Sound-Linux→Windows](https://github.com/juushimatsu/Duplicating-Sound-from-Linux-to-Windows) | stream audio from Linux mini-PC to Windows via RTP/VLC |
-| [wireguard-turn-android-vpn-bypass](https://github.com/juushimatsu/wireguard-turn-android-vpn-bypass) | Android GUI for WireGuard with TURN - per-app VPN bypass *(archived)* |
+
+**Past**
+
+| repo | description |
+|------|-------------|
+| [wireguard-turn-android-vpn-bypass](https://github.com/juushimatsu/wireguard-turn-android-vpn-bypass) | Android GUI for WireGuard with TURN — per-app VPN bypass *(archived)* |
+
+<br>
+
+**Recent activity**
+
+<!-- ACTIVITY:START -->
+```
+[ fetch pending — workflow runs every 6h ]
+```
+<!-- ACTIVITY:END -->
+
+<br>
+
+**Reach me**
+
+```
+web     : guns.lol/juushimatsu
+discord : juushimatsu
+github  : github.com/juushimatsu
+```
 
 <br>
 
@@ -61,7 +85,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=juushimatsu&color=ffffff&style=flat&label=profile+views)
-&nbsp;&nbsp;
 
 </div>
 
