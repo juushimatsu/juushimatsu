@@ -45,10 +45,14 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 **Projects**
 
+**Projects**
 | repo | description |
 |------|-------------|
 | [Exclave_olcrtc](https://github.com/Oleglog/Exclave_olcrtc) | WebRTC support via olcrtc |
 | [olcrtc_manager](https://github.com/Oleglog/Olcrtc_manager) | olcrtc library fork - help wanted |
+| [Upgrading-Windows-rights](https://github.com/juushimatsu/Upgrading-Windows-rights-or-how-to-play-games-on-a-school-PC) | guide: privilege escalation on locked school PCs |
+| [Duplicating-Sound-Linux→Windows](https://github.com/juushimatsu/Duplicating-Sound-from-Linux-to-Windows) | stream audio from Linux mini-PC to Windows via RTP/VLC |
+| [wireguard-turn-android-vpn-bypass](https://github.com/juushimatsu/wireguard-turn-android-vpn-bypass) | Android GUI for WireGuard with TURN - per-app VPN bypass *(archived)* |
 
 <br>
 
