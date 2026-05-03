@@ -75,17 +75,17 @@ def parse_events(events: list[dict]) -> list[str]:
         # ── Pull Requests ────────────────────────────────────────
         elif etype == "PullRequestEvent":
             action = ev["payload"]["action"]          # opened / closed / merged
-            pr     = ev["payload"]["pull_request"]
+            pr     = ev["payload"].get("pull_request", {})
             merged = pr.get("merged", False)
             if action == "closed" and merged:
                 action = "merged"
-            title  = pr["title"][:48]
+            title  = pr.get("title", "untitled")[:48]
             key    = f"pr-{ev['id']}"
             label  = f"[{when:>6}]  PR {action:<10}  →  {repo}  \"{title}\""
 
         # ── PR Review ────────────────────────────────────────────
         elif etype == "PullRequestReviewEvent":
-            title = ev["payload"]["pull_request"]["title"][:48]
+            title = ev["payload"].get("pull_request", {}).get("title", "untitled")[:48]
             key   = f"review-{ev['id']}"
             label = f"[{when:>6}]  PR reviewed    →  {repo}  \"{title}\""
 
