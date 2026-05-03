@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[1h ago]  committed      →  Oleglog/Exclave_olcrtc  "Upgrade Plan removed"
 [1h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.5"
+[1h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: update client for new olcrtc server (smux,"
 [1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.2.0"
-[1d ago]  created branch  →  juushimatsu  "main"
-[1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.4"
-[3d ago]  created branch  →  extemp  "main"
-[2w ago]  created branch  →  ex  "main"
-[2w ago]  forked         →  juushimatsu/vk-turn-proxy
-[3w ago]  PR closed      →  kiper292/wireguard-turn-android  "untitled"
-[3w ago]  issue closed    →  kiper292/wireguard-turn-android  "Проблемы с WebView."
-[3w ago]  PR opened      →  kiper292/wireguard-turn-android  "untitled"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix env keys | fix readme"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix links"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix readme"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "update setup | update readme files"
+[11h ago]  committed      →  Oleglog/Exclave_olcrtc  "update client tz"
+[11h ago]  committed      →  Oleglog/Olcrtc_manager  "merge upstream/master: keep signaling-only SOCKS"
 ```
 <!-- ACTIVITY:END -->
 
