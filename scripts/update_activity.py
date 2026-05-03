@@ -103,6 +103,14 @@ def parse_events(events: list[dict]) -> list[str]:
                 key   = f"create-{ev['id']}"
                 label = f"[{when:>6}]  created {ref_type:<6}  →  {repo}  \"{ref}\""
 
+        # ── Release ─────────────────────────────────────────────────
+        elif etype == "ReleaseEvent":
+            action  = ev["payload"].get("action", "published")
+            release = ev["payload"].get("release", {})
+            tag     = release.get("tag_name", "")[:48]
+            key     = f"release-{ev['id']}"
+            label   = f"[{when:>6}]  release {action:<6}  →  {repo}  \"{tag}\""
+
         if key and key not in seen and label:
             seen.add(key)
             lines.append(label)
