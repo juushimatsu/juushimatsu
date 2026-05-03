@@ -25,7 +25,7 @@ jobs:
 
       - name: Update activity
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           GITHUB_USERNAME: juushimatsu
         run: python scripts/update_activity.py
 
