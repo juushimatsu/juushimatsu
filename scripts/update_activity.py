@@ -41,41 +41,44 @@ def fetch_events() -> list[dict]:
     return r.json()
 
 
-def fetch_commits() -> list[dict]:
-    """Search API: recent commits authored by USERNAME across all repos."""
-    url = (
-        f"https://api.github.com/search/commits"
-        f"?q=author:{USERNAME}+-user:{USERNAME}&sort=author-date&order=desc&per_page=30"
-    )
+def fetch_collab_repos() -> list[str]:
+    """List repos where the user is a collaborator (not owner)."""
+    url = "https://api.github.com/user/repos?affiliation=collaborator&per_page=100"
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
         r.raise_for_status()
-        data = r.json()
-        items = data.get("items", [])
-        print(f"Search commits: {data.get('total_count', 0)} total, {len(items)} fetched")
-        return items
+        repos = [repo["full_name"] for repo in r.json()]
+        print(f"Collaborator repos: {repos}")
+        return repos
     except Exception as e:
-        print(f"Warning: fetch_commits failed: {e}")
+        print(f"Warning: fetch_collab_repos failed: {e}")
         return []
 
 
-def parse_commits(commits: list[dict]) -> list[tuple[str, str, str]]:
-    """Return (iso_date, formatted_line, dedup_key) for each commit."""
+def fetch_collab_commits(repos: list[str]) -> list[tuple[str, str, str]]:
+    """Fetch recent commits by USERNAME from each collaborator repo."""
     results = []
-    for c in commits:
-        repo_name = c.get("repository", {}).get("full_name", "")
-        if not repo_name:
-            continue
-        commit  = c.get("commit", {})
-        msg     = commit.get("message", "").split("\n")[0][:48]
-        iso     = commit.get("author", {}).get("date", "")
-        if not iso:
-            continue
-        when    = time_ago(iso)
-        sha     = c.get("sha", "")[:7]
-        label   = f"[{when:>6}]  committed      →  {repo_name}  \"{msg}\""
-        results.append((iso, label, f"commit-{sha}"))
-    print(f"Parsed {len(results)} external commits from {len(commits)} total")
+    for repo_name in repos:
+        url = (
+            f"https://api.github.com/repos/{repo_name}/commits"
+            f"?author={USERNAME}&per_page=10"
+        )
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=15)
+            r.raise_for_status()
+            for c in r.json():
+                sha = c.get("sha", "")[:7]
+                commit = c.get("commit", {})
+                msg = commit.get("message", "").split("\n")[0][:48]
+                iso = commit.get("author", {}).get("date", "")
+                if not iso:
+                    continue
+                when = time_ago(iso)
+                label = f"[{when:>6}]  committed      →  {repo_name}  \"{msg}\""
+                results.append((iso, label, f"commit-{sha}"))
+        except Exception as e:
+            print(f"Warning: commits from {repo_name} failed: {e}")
+    print(f"Fetched {len(results)} commits from {len(repos)} collab repos")
     return results
 
 
@@ -179,7 +182,8 @@ def update_readme(lines: list[str]) -> None:
 
 def build_activity() -> list[str]:
     ev_items     = parse_events(fetch_events())
-    commit_items = parse_commits(fetch_commits())
+    collab_repos = fetch_collab_repos()
+    commit_items = fetch_collab_commits(collab_repos)
 
     # merge & deduplicate
     seen  = set()
