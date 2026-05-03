@@ -47,8 +47,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 | repo | description |
 |------|-------------|
-| [Exclave_FORK](https://github.com/Oleglog/Exclave_FORK) | WebRTC support via olcrtc |
-| [olcrtc_FORK](https://github.com/Oleglog/olcrtc_FORK) | olcrtc library fork - help wanted |
+| [Exclave_olcrtc](https://github.com/Oleglog/Exclave_olcrtc) | WebRTC support via olcrtc |
+| [olcrtc_manager](https://github.com/Oleglog/Olcrtc_manager) | olcrtc library fork - help wanted |
 
 <br>
 
