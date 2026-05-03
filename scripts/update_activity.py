@@ -45,7 +45,7 @@ def fetch_commits() -> list[dict]:
     """Search API: recent commits authored by USERNAME across all repos."""
     url = (
         f"https://api.github.com/search/commits"
-        f"?q=author:{USERNAME}&sort=author-date&order=desc&per_page=30"
+        f"?q=author:{USERNAME}+-user:{USERNAME}&sort=author-date&order=desc&per_page=30"
     )
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
@@ -64,8 +64,7 @@ def parse_commits(commits: list[dict]) -> list[tuple[str, str, str]]:
     results = []
     for c in commits:
         repo_name = c.get("repository", {}).get("full_name", "")
-        # skip own repos — those are already covered by PushEvent
-        if repo_name.startswith(f"{USERNAME}/"):
+        if not repo_name:
             continue
         commit  = c.get("commit", {})
         msg     = commit.get("message", "").split("\n")[0][:48]
