@@ -47,14 +47,20 @@ def fetch_commits() -> list[dict]:
         f"https://api.github.com/search/commits"
         f"?q=author:{USERNAME}&sort=author-date&order=desc&per_page=30"
     )
-    h = {**HEADERS, "Accept": "application/vnd.github.cloak-preview+json"}
-    r = requests.get(url, headers=h, timeout=15)
-    r.raise_for_status()
-    return r.json().get("items", [])
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        r.raise_for_status()
+        data = r.json()
+        items = data.get("items", [])
+        print(f"Search commits: {data.get('total_count', 0)} total, {len(items)} fetched")
+        return items
+    except Exception as e:
+        print(f"Warning: fetch_commits failed: {e}")
+        return []
 
 
-def parse_commits(commits: list[dict]) -> list[tuple[str, str]]:
-    """Return (iso_date, formatted_line) for each commit."""
+def parse_commits(commits: list[dict]) -> list[tuple[str, str, str]]:
+    """Return (iso_date, formatted_line, dedup_key) for each commit."""
     results = []
     for c in commits:
         repo_name = c.get("repository", {}).get("full_name", "")
@@ -70,6 +76,7 @@ def parse_commits(commits: list[dict]) -> list[tuple[str, str]]:
         sha     = c.get("sha", "")[:7]
         label   = f"[{when:>6}]  committed      →  {repo_name}  \"{msg}\""
         results.append((iso, label, f"commit-{sha}"))
+    print(f"Parsed {len(results)} external commits from {len(commits)} total")
     return results
 
 
