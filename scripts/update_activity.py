@@ -41,17 +41,48 @@ def fetch_events() -> list[dict]:
     return r.json()
 
 
-def parse_events(events: list[dict]) -> list[str]:
-    lines = []
-    seen  = set()
+def fetch_commits() -> list[dict]:
+    """Search API: recent commits authored by USERNAME across all repos."""
+    url = (
+        f"https://api.github.com/search/commits"
+        f"?q=author:{USERNAME}&sort=author-date&order=desc&per_page=30"
+    )
+    h = {**HEADERS, "Accept": "application/vnd.github.cloak-preview+json"}
+    r = requests.get(url, headers=h, timeout=15)
+    r.raise_for_status()
+    return r.json().get("items", [])
+
+
+def parse_commits(commits: list[dict]) -> list[tuple[str, str]]:
+    """Return (iso_date, formatted_line) for each commit."""
+    results = []
+    for c in commits:
+        repo_name = c.get("repository", {}).get("full_name", "")
+        # skip own repos — those are already covered by PushEvent
+        if repo_name.startswith(f"{USERNAME}/"):
+            continue
+        commit  = c.get("commit", {})
+        msg     = commit.get("message", "").split("\n")[0][:48]
+        iso     = commit.get("author", {}).get("date", "")
+        if not iso:
+            continue
+        when    = time_ago(iso)
+        sha     = c.get("sha", "")[:7]
+        label   = f"[{when:>6}]  committed      →  {repo_name}  \"{msg}\""
+        results.append((iso, label, f"commit-{sha}"))
+    return results
+
+
+def parse_events(events: list[dict]) -> list[tuple[str, str, str]]:
+    """Return (iso_date, formatted_line, dedup_key) for each event."""
+    results = []
+    seen    = set()
 
     for ev in events:
-        if len(lines) >= LIMIT:
-            break
-
         etype  = ev.get("type", "")
         repo   = ev["repo"]["name"].replace(f"{USERNAME}/", "")
-        when   = time_ago(ev["created_at"])
+        iso    = ev["created_at"]
+        when   = time_ago(iso)
         key    = None
         label  = None
 
@@ -113,9 +144,9 @@ def parse_events(events: list[dict]) -> list[str]:
 
         if key and key not in seen and label:
             seen.add(key)
-            lines.append(label)
+            results.append((iso, label, key))
 
-    return lines
+    return results
 
 
 def update_readme(lines: list[str]) -> None:
@@ -140,9 +171,25 @@ def update_readme(lines: list[str]) -> None:
     print(f"README updated with {len(lines)} activity lines.")
 
 
+def build_activity() -> list[str]:
+    ev_items     = parse_events(fetch_events())
+    commit_items = parse_commits(fetch_commits())
+
+    # merge & deduplicate
+    seen  = set()
+    merged = []
+    for iso, label, key in ev_items + commit_items:
+        if key not in seen:
+            seen.add(key)
+            merged.append((iso, label))
+
+    # sort by date descending, take top LIMIT
+    merged.sort(key=lambda x: x[0], reverse=True)
+    return [label for _, label in merged[:LIMIT]]
+
+
 if __name__ == "__main__":
-    events = fetch_events()
-    lines  = parse_events(events)
+    lines = build_activity()
     if not lines:
         lines = ["no public activity found"]
     update_readme(lines)
