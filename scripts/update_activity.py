@@ -9,15 +9,22 @@ import re
 import requests
 from datetime import datetime, timezone
 
-USERNAME = os.environ.get("GITHUB_USERNAME", "juushimatsu")
-TOKEN    = os.environ.get("GITHUB_TOKEN", "")
-LIMIT    = 10  # max events to show
+USERNAME  = os.environ.get("GITHUB_USERNAME", "juushimatsu")
+TOKEN     = os.environ.get("GITHUB_TOKEN", "")
+PAT_TOKEN = os.environ.get("PAT_TOKEN", "")
+LIMIT     = 10  # max events to show
 
 HEADERS = {
     "Authorization": f"Bearer {TOKEN}",
     "Accept": "application/vnd.github+json",
     "X-GitHub-Api-Version": "2022-11-28",
 }
+
+PAT_HEADERS = {
+    "Authorization": f"Bearer {PAT_TOKEN}",
+    "Accept": "application/vnd.github+json",
+    "X-GitHub-Api-Version": "2022-11-28",
+} if PAT_TOKEN else None
 
 
 def time_ago(iso: str) -> str:
@@ -43,9 +50,12 @@ def fetch_events() -> list[dict]:
 
 def fetch_collab_repos() -> list[str]:
     """List repos where the user is a collaborator (not owner)."""
+    if not PAT_HEADERS:
+        print("PAT_TOKEN not set, skipping collab repos")
+        return []
     url = "https://api.github.com/user/repos?affiliation=collaborator&per_page=100"
     try:
-        r = requests.get(url, headers=HEADERS, timeout=15)
+        r = requests.get(url, headers=PAT_HEADERS, timeout=15)
         r.raise_for_status()
         repos = [repo["full_name"] for repo in r.json()]
         print(f"Collaborator repos: {repos}")
@@ -64,7 +74,7 @@ def fetch_collab_commits(repos: list[str]) -> list[tuple[str, str, str]]:
             f"?author={USERNAME}&per_page=10"
         )
         try:
-            r = requests.get(url, headers=HEADERS, timeout=15)
+            r = requests.get(url, headers=PAT_HEADERS, timeout=15)
             r.raise_for_status()
             for c in r.json():
                 sha = c.get("sha", "")[:7]
