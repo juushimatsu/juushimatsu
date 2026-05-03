@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[47m ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.5"
+[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.2.0"
 [1d ago]  created branch  →  juushimatsu  "main"
+[1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.4"
 [3d ago]  created branch  →  extemp  "main"
 [2w ago]  created branch  →  ex  "main"
 [2w ago]  forked         →  juushimatsu/vk-turn-proxy
 [3w ago]  PR closed      →  kiper292/wireguard-turn-android  "untitled"
 [3w ago]  issue closed    →  kiper292/wireguard-turn-android  "Проблемы с WebView."
 [3w ago]  PR opened      →  kiper292/wireguard-turn-android  "untitled"
-[3w ago]  forked         →  juushimatsu/wireguard-turn-android-vpn-bypass
-[3w ago]  issue opened    →  kiper292/wireguard-turn-android  "Проблемы с WebView."
-[3w ago]  issue closed    →  kiper292/wireguard-turn-android  "Не показывает капчу"
 ```
 <!-- ACTIVITY:END -->
 
