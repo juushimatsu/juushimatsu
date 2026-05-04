@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[9h ago]  committed      →  Oleglog/Exclave_olcrtc  "Upgrade Plan removed"
-[9h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.5"
-[9h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: update client for new olcrtc server (smux,"
-[10h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.2.0"
-[10h ago]  committed      →  Oleglog/Olcrtc_manager  "fix env keys | fix readme"
-[10h ago]  committed      →  Oleglog/Olcrtc_manager  "fix links"
-[10h ago]  committed      →  Oleglog/Olcrtc_manager  "fix readme"
-[10h ago]  committed      →  Oleglog/Olcrtc_manager  "update setup | update readme files"
-[19h ago]  committed      →  Oleglog/Exclave_olcrtc  "update client tz"
-[20h ago]  committed      →  Oleglog/Olcrtc_manager  "merge upstream/master: keep signaling-only SOCKS"
+[6m ago]  committed      →  Oleglog/Exclave_olcrtc  "Upgrade Plan removed"
+[11m ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.6"
+[29m ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: reconnect backoff, keepalive ping, olcRTC "
+[12h ago]  committed      →  Oleglog/Exclave_olcrtc  "Upgrade Plan removed"
+[12h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.5"
+[12h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: update client for new olcrtc server (smux,"
+[12h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.2.0"
+[12h ago]  committed      →  Oleglog/Olcrtc_manager  "fix env keys | fix readme"
+[13h ago]  committed      →  Oleglog/Olcrtc_manager  "fix links"
+[13h ago]  committed      →  Oleglog/Olcrtc_manager  "fix readme"
 ```
 <!-- ACTIVITY:END -->
 
