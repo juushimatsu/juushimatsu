@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[5h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: rebuild AAR with Go 1.25.9 to fix SIGSYS cr"
-[6h ago]  committed      →  Oleglog/Exclave_olcrtc  "build.bat"
-[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "add universal apk"
-[8h ago]  committed      →  Oleglog/Olcrtc_manager  "fix new instance warp"
-[8h ago]  committed      →  Oleglog/Olcrtc_manager  "Instructions for WARP | Update README"
-[9h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.3.0"
-[9h ago]  committed      →  Oleglog/Olcrtc_manager  "update INSTALLER_VERSION"
-[9h ago]  committed      →  Oleglog/Olcrtc_manager  "add warp support"
-[9h ago]  committed      →  Oleglog/Exclave_olcrtc  "Upgrade Plan removed"
-[9h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.6"
+[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: rebuild AAR with Go 1.25.9 to fix SIGSYS cr"
+[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "build.bat"
+[9h ago]  committed      →  Oleglog/Exclave_olcrtc  "add universal apk"
+[9h ago]  committed      →  Oleglog/Olcrtc_manager  "fix new instance warp"
+[10h ago]  committed      →  Oleglog/Olcrtc_manager  "Instructions for WARP | Update README"
+[10h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.3.0"
+[10h ago]  committed      →  Oleglog/Olcrtc_manager  "update INSTALLER_VERSION"
+[10h ago]  committed      →  Oleglog/Olcrtc_manager  "add warp support"
+[11h ago]  committed      →  Oleglog/Exclave_olcrtc  "Upgrade Plan removed"
+[11h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.6"
 ```
 <!-- ACTIVITY:END -->
 
