@@ -65,15 +65,15 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 <!-- ACTIVITY:START -->
 ```
 [2h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: add admin UI spec + subscription flags in "
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
-[3h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
-[3h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: subscription fetch fallback to Java HTTP w"
-[4h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: interactive subscription/instance pickers "
-[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: unbound variable in sub_api_base/sub_is_run"
-[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: subscription DB path (absolute) + non-fatal"
-[4h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.0"
+[4h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
+[4h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
+[4h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: subscription fetch fallback to Java HTTP w"
+[5h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: interactive subscription/instance pickers "
+[5h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: unbound variable in sub_api_base/sub_is_run"
+[5h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: subscription DB path (absolute) + non-fatal"
+[5h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.0"
 [5h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: subscription system (server, menu, import/"
-[12h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
+[13h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
 ```
 <!-- ACTIVITY:END -->
 
