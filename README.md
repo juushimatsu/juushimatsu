@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[7m ago]  committed      →  Oleglog/Olcrtc_manager  "fix: unbound variable in sub_api_base/sub_is_run"
-[9m ago]  committed      →  Oleglog/Olcrtc_manager  "fix: subscription DB path (absolute) + non-fatal"
-[11m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.0"
-[26m ago]  committed      →  Oleglog/Olcrtc_manager  "feat: subscription system (server, menu, import/"
-[8h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
-[18h ago]  committed      →  Oleglog/Exclave_olcrtc  "Build Requirements"
-[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: rebuild AAR with Go 1.25.9 to fix SIGSYS cr"
-[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "build.bat"
-[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "add universal apk"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix new instance warp"
+[31m ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
+[58m ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
+[1h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: subscription fetch fallback to Java HTTP w"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: interactive subscription/instance pickers "
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: unbound variable in sub_api_base/sub_is_run"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: subscription DB path (absolute) + non-fatal"
+[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.0"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: subscription system (server, menu, import/"
+[10h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
+[20h ago]  committed      →  Oleglog/Exclave_olcrtc  "Build Requirements"
 ```
 <!-- ACTIVITY:END -->
 
