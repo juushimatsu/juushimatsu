@@ -64,13 +64,13 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[2h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
-[12h ago]  committed      →  Oleglog/Exclave_olcrtc  "Build Requirements"
-[21h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: rebuild AAR with Go 1.25.9 to fix SIGSYS cr"
-[21h ago]  committed      →  Oleglog/Exclave_olcrtc  "build.bat"
-[22h ago]  committed      →  Oleglog/Exclave_olcrtc  "add universal apk"
-[23h ago]  committed      →  Oleglog/Olcrtc_manager  "fix new instance warp"
-[23h ago]  committed      →  Oleglog/Olcrtc_manager  "Instructions for WARP | Update README"
+[4h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
+[14h ago]  committed      →  Oleglog/Exclave_olcrtc  "Build Requirements"
+[23h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: rebuild AAR with Go 1.25.9 to fix SIGSYS cr"
+[23h ago]  committed      →  Oleglog/Exclave_olcrtc  "build.bat"
+[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "add universal apk"
+[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix new instance warp"
+[1d ago]  committed      →  Oleglog/Olcrtc_manager  "Instructions for WARP | Update README"
 [1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.3.0"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "update INSTALLER_VERSION"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "add warp support"
