@@ -64,10 +64,10 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[4h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
-[14h ago]  committed      →  Oleglog/Exclave_olcrtc  "Build Requirements"
-[23h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: rebuild AAR with Go 1.25.9 to fix SIGSYS cr"
-[23h ago]  committed      →  Oleglog/Exclave_olcrtc  "build.bat"
+[6h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
+[16h ago]  committed      →  Oleglog/Exclave_olcrtc  "Build Requirements"
+[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: rebuild AAR with Go 1.25.9 to fix SIGSYS cr"
+[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "build.bat"
 [1d ago]  committed      →  Oleglog/Exclave_olcrtc  "add universal apk"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix new instance warp"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "Instructions for WARP | Update README"
