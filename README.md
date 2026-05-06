@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[6h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: add admin UI spec + subscription flags in "
-[7h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
-[7h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
-[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: subscription fetch fallback to Java HTTP w"
-[8h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: interactive subscription/instance pickers "
-[8h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: unbound variable in sub_api_base/sub_is_run"
-[8h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: subscription DB path (absolute) + non-fatal"
-[8h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.0"
-[9h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: subscription system (server, menu, import/"
-[16h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
+[9h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: add admin UI spec + subscription flags in "
+[10h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
+[11h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
+[11h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: subscription fetch fallback to Java HTTP w"
+[12h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: interactive subscription/instance pickers "
+[12h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: unbound variable in sub_api_base/sub_is_run"
+[12h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: subscription DB path (absolute) + non-fatal"
+[12h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.0"
+[12h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: subscription system (server, menu, import/"
+[20h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
 ```
 <!-- ACTIVITY:END -->
 
