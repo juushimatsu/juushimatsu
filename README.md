@@ -64,7 +64,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[23h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: add admin UI spec + subscription flags in "
+[1d ago]  committed      →  Oleglog/Olcrtc_manager  "feat: add admin UI spec + subscription flags in "
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
 [1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
 [1d ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: subscription fetch fallback to Java HTTP w"
