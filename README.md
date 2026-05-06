@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[12h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: add admin UI spec + subscription flags in "
-[13h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
-[14h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
-[14h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: subscription fetch fallback to Java HTTP w"
-[14h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: interactive subscription/instance pickers "
-[15h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: unbound variable in sub_api_base/sub_is_run"
-[15h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: subscription DB path (absolute) + non-fatal"
-[15h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.0"
-[15h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: subscription system (server, menu, import/"
-[23h ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
+[15h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: add admin UI spec + subscription flags in "
+[16h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
+[16h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
+[16h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: subscription fetch fallback to Java HTTP w"
+[17h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: interactive subscription/instance pickers "
+[17h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: unbound variable in sub_api_base/sub_is_run"
+[17h ago]  committed      →  Oleglog/Olcrtc_manager  "fix: subscription DB path (absolute) + non-fatal"
+[17h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.0"
+[18h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: subscription system (server, menu, import/"
+[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
 ```
 <!-- ACTIVITY:END -->
 
