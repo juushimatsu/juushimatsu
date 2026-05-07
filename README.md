@@ -73,7 +73,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix: subscription DB path (absolute) + non-fatal"
 [1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.0"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "feat: subscription system (server, menu, import/"
-[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
+[2d ago]  committed      →  Oleglog/Exclave_olcrtc  "docs: make BUILD.md universal with download link"
 ```
 <!-- ACTIVITY:END -->
 
