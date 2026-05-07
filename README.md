@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[12m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
-[28m ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer to 0.4.2, add SEI"
-[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.1"
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer version to 0.4.1"
+[1h ago]  created branch  →  Oleglog/Olcrtc_manager  "legacy/no-admin-ui"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: update admin-ui-spec.md with WARP, SEI, de"
+[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer to 0.4.2, add SEI"
+[4h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.1"
+[4h ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer version to 0.4.1"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "feat: add admin UI spec + subscription flags in "
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
 [1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
 [1d ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: subscription fetch fallback to Java HTTP w"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "feat: interactive subscription/instance pickers "
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix: unbound variable in sub_api_base/sub_is_run"
 ```
 <!-- ACTIVITY:END -->
 
