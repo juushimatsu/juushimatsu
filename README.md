@@ -64,11 +64,11 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[8h ago]  committed      →  Oleglog/Olcrtc_manager  "update ui spec"
-[9h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
-[10h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
-[13h ago]  committed      →  Oleglog/Olcrtc_manager  "Update license badge in README"
-[13h ago]  committed      →  Oleglog/Olcrtc_manager  "Change license from WTFPL to Apache License 2.0"
+[9h ago]  committed      →  Oleglog/Olcrtc_manager  "update ui spec"
+[10h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
+[11h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
+[14h ago]  committed      →  Oleglog/Olcrtc_manager  "Update license badge in README"
+[14h ago]  committed      →  Oleglog/Olcrtc_manager  "Change license from WTFPL to Apache License 2.0"
 [1d ago]  created branch  →  Oleglog/Olcrtc_manager  "legacy/no-admin-ui"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "docs: update admin-ui-spec.md with WARP, SEI, de"
 [1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
