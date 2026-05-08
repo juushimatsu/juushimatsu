@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[14m ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
-[38m ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "Update license badge in README"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "Change license from WTFPL to Apache License 2.0"
-[22h ago]  created branch  →  Oleglog/Olcrtc_manager  "legacy/no-admin-ui"
-[22h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: update admin-ui-spec.md with WARP, SEI, de"
-[23h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "update ui spec"
+[2h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
+[2h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
+[5h ago]  committed      →  Oleglog/Olcrtc_manager  "Update license badge in README"
+[6h ago]  committed      →  Oleglog/Olcrtc_manager  "Change license from WTFPL to Apache License 2.0"
+[1d ago]  created branch  →  Oleglog/Olcrtc_manager  "legacy/no-admin-ui"
+[1d ago]  committed      →  Oleglog/Olcrtc_manager  "docs: update admin-ui-spec.md with WARP, SEI, de"
+[1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer to 0.4.2, add SEI"
 [1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.1"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer version to 0.4.1"
 ```
 <!-- ACTIVITY:END -->
 
