@@ -64,12 +64,12 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[9h ago]  created branch  →  Oleglog/Olcrtc_manager  "legacy/no-admin-ui"
-[9h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: update admin-ui-spec.md with WARP, SEI, de"
-[10h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
-[10h ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer to 0.4.2, add SEI"
-[12h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.1"
-[12h ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer version to 0.4.1"
+[11h ago]  created branch  →  Oleglog/Olcrtc_manager  "legacy/no-admin-ui"
+[11h ago]  committed      →  Oleglog/Olcrtc_manager  "docs: update admin-ui-spec.md with WARP, SEI, de"
+[12h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
+[13h ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer to 0.4.2, add SEI"
+[14h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.1"
+[15h ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer version to 0.4.1"
 [2d ago]  committed      →  Oleglog/Olcrtc_manager  "feat: add admin UI spec + subscription flags in "
 [2d ago]  committed      →  Oleglog/Olcrtc_manager  "docs: detailed domain binding with 3x-ui/SNI mul"
 [2d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.8"
