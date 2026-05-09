@@ -64,9 +64,9 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[21h ago]  committed      →  Oleglog/Olcrtc_manager  "update ui spec"
-[22h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
-[23h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
+[23h ago]  committed      →  Oleglog/Olcrtc_manager  "update ui spec"
+[23h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
+[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "Update license badge in README"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "Change license from WTFPL to Apache License 2.0"
 [1d ago]  created branch  →  Oleglog/Olcrtc_manager  "legacy/no-admin-ui"
