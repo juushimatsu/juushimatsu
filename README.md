@@ -64,6 +64,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[49m ago]  committed      →  Oleglog/Olcrtc_manager  "Update readme.md"
 [2d ago]  committed      →  Oleglog/Olcrtc_manager  "update ui spec"
 [2d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
 [2d ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
@@ -73,7 +74,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [3d ago]  committed      →  Oleglog/Olcrtc_manager  "docs: update admin-ui-spec.md with WARP, SEI, de"
 [3d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
 [3d ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer to 0.4.2, add SEI"
-[3d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.1"
 ```
 <!-- ACTIVITY:END -->
 
