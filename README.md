@@ -73,7 +73,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [2d ago]  committed      →  Oleglog/Olcrtc_manager  "docs: update admin-ui-spec.md with WARP, SEI, de"
 [2d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
 [2d ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer to 0.4.2, add SEI"
-[2d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.1"
+[3d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.1"
 ```
 <!-- ACTIVITY:END -->
 
