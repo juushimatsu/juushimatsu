@@ -64,7 +64,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[8h ago]  committed      →  Oleglog/Olcrtc_manager  "Update readme.md"
+[12h ago]  committed      →  Oleglog/Olcrtc_manager  "Update readme.md"
 [2d ago]  committed      →  Oleglog/Olcrtc_manager  "update ui spec"
 [2d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
 [2d ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
