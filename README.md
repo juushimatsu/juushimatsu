@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[16h ago]  committed      →  Oleglog/Olcrtc_manager  "Update readme.md"
+[8m ago]  committed      →  Oleglog/Olcrtc_manager  "Fix systemd unit: remove bash syntax from ExecSt"
+[20m ago]  committed      →  Oleglog/Olcrtc_manager  "Fix BASH_SOURCE unbound variable in curl | bash "
+[29m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.0"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Add olcrtc-admin Web UI and rewrite installer"
+[19h ago]  committed      →  Oleglog/Olcrtc_manager  "Update readme.md"
 [2d ago]  committed      →  Oleglog/Olcrtc_manager  "update ui spec"
-[2d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
-[2d ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
+[3d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
+[3d ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
 [3d ago]  committed      →  Oleglog/Olcrtc_manager  "Update license badge in README"
 [3d ago]  committed      →  Oleglog/Olcrtc_manager  "Change license from WTFPL to Apache License 2.0"
-[3d ago]  created branch  →  Oleglog/Olcrtc_manager  "legacy/no-admin-ui"
-[3d ago]  committed      →  Oleglog/Olcrtc_manager  "docs: update admin-ui-spec.md with WARP, SEI, de"
-[3d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v0.4.2"
-[3d ago]  committed      →  Oleglog/Olcrtc_manager  "chore(release): bump installer to 0.4.2, add SEI"
 ```
 <!-- ACTIVITY:END -->
 
