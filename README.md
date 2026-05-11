@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[8m ago]  committed      →  Oleglog/Olcrtc_manager  "Fix systemd unit: remove bash syntax from ExecSt"
-[20m ago]  committed      →  Oleglog/Olcrtc_manager  "Fix BASH_SOURCE unbound variable in curl | bash "
-[29m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.0"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Add olcrtc-admin Web UI and rewrite installer"
-[19h ago]  committed      →  Oleglog/Olcrtc_manager  "Update readme.md"
-[2d ago]  committed      →  Oleglog/Olcrtc_manager  "update ui spec"
-[3d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.37-olcrtc.9"
-[3d ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add globalAllowInsecure and allowInsecureO"
-[3d ago]  committed      →  Oleglog/Olcrtc_manager  "Update license badge in README"
-[3d ago]  committed      →  Oleglog/Olcrtc_manager  "Change license from WTFPL to Apache License 2.0"
+[12m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.4"
+[39m ago]  committed      →  Oleglog/Olcrtc_manager  "Fix rate limiter blocking valid requests after f"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Bump installer version to 1.0.3"
+[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.3"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Strip quotes from -domain flag to fix systemd em"
+[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.2"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Bump to v1.0.2"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Fix unbound OLCRTC_ADMIN_DOMAIN, add hints to in"
+[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.1"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "Bump installer version to 1.0.1"
 ```
 <!-- ACTIVITY:END -->
 
