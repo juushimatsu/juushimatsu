@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[6m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): auto-generate slug from name"
-[19m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): return [] instead of null fo"
-[32m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): use absolute path for subscripti"
-[55m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): subscription prompt never shown "
-[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.6"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): enable subscription server via e"
-[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.5"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): subscription 503, proxy fields, jour"
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(bin): replace windows PE in olcrtc-linux-amd"
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix setup"
+[12m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
+[20m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
+[31m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): auto-generate slug from name"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): return [] instead of null fo"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): use absolute path for subscripti"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): subscription prompt never shown "
+[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.6"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): enable subscription server via e"
 ```
 <!-- ACTIVITY:END -->
 
