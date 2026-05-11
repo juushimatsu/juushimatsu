@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[9m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.5"
-[21m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): subscription 503, proxy fields, jour"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(bin): replace windows PE in olcrtc-linux-amd"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix setup"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "architecture validation update"
-[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.4"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "Fix rate limiter blocking valid requests after f"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "Bump installer version to 1.0.3"
-[3h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.3"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "Strip quotes from -domain flag to fix systemd em"
+[6m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): auto-generate slug from name"
+[19m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): return [] instead of null fo"
+[32m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): use absolute path for subscripti"
+[55m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): subscription prompt never shown "
+[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.6"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): enable subscription server via e"
+[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.5"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): subscription 503, proxy fields, jour"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(bin): replace windows PE in olcrtc-linux-amd"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix setup"
 ```
 <!-- ACTIVITY:END -->
 
