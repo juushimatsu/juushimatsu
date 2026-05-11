@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[12m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.4"
-[39m ago]  committed      →  Oleglog/Olcrtc_manager  "Fix rate limiter blocking valid requests after f"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Bump installer version to 1.0.3"
-[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.3"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Strip quotes from -domain flag to fix systemd em"
-[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.2"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Bump to v1.0.2"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Fix unbound OLCRTC_ADMIN_DOMAIN, add hints to in"
-[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.1"
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "Bump installer version to 1.0.1"
+[9m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.5"
+[21m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): subscription 503, proxy fields, jour"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(bin): replace windows PE in olcrtc-linux-amd"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix setup"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "architecture validation update"
+[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.4"
+[3h ago]  committed      →  Oleglog/Olcrtc_manager  "Fix rate limiter blocking valid requests after f"
+[3h ago]  committed      →  Oleglog/Olcrtc_manager  "Bump installer version to 1.0.3"
+[3h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.3"
+[3h ago]  committed      →  Oleglog/Olcrtc_manager  "Strip quotes from -domain flag to fix systemd em"
 ```
 <!-- ACTIVITY:END -->
 
