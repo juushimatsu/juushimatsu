@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[4h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.2"
-[5h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: always use IPC proxy when VPN is active for"
-[5h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.1"
-[5h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: allowInsecureOnRequest now works for subscr"
-[18h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
-[18h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
-[18h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
-[19h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
-[19h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): auto-generate slug from name"
-[20h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): return [] instead of null fo"
+[7h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.2"
+[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: always use IPC proxy when VPN is active for"
+[8h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.1"
+[8h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: allowInsecureOnRequest now works for subscr"
+[21h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
+[21h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
+[21h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
+[21h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
+[22h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): auto-generate slug from name"
+[22h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): return [] instead of null fo"
 ```
 <!-- ACTIVITY:END -->
 
