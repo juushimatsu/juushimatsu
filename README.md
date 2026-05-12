@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
-[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
-[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
-[5h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
-[5h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): auto-generate slug from name"
-[5h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): return [] instead of null fo"
-[6h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): use absolute path for subscripti"
-[6h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): subscription prompt never shown "
-[6h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.6"
-[6h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): enable subscription server via e"
+[8h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
+[8h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
+[8h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
+[9h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
+[9h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): auto-generate slug from name"
+[9h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): return [] instead of null fo"
+[10h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): use absolute path for subscripti"
+[10h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): subscription prompt never shown "
+[10h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.6"
+[10h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): enable subscription server via e"
 ```
 <!-- ACTIVITY:END -->
 
