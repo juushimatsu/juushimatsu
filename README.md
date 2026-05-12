@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[10h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
-[11h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
-[11h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
-[11h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
-[12h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): auto-generate slug from name"
-[12h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): return [] instead of null fo"
-[12h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): use absolute path for subscripti"
-[13h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): subscription prompt never shown "
-[13h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.0.6"
-[13h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): enable subscription server via e"
+[8m ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: always use IPC proxy when VPN is active for"
+[39m ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.1"
+[50m ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: allowInsecureOnRequest now works for subscr"
+[13h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
+[13h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
+[13h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
+[14h ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
+[14h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): auto-generate slug from name"
+[15h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): return [] instead of null fo"
+[15h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(installer): use absolute path for subscripti"
 ```
 <!-- ACTIVITY:END -->
 
