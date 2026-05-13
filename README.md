@@ -64,11 +64,11 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[8h ago]  created branch  →  instudy-mveu-ui-fix-tampermonkey  "main"
-[19h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.2"
-[19h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: always use IPC proxy when VPN is active for"
-[19h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.1"
-[19h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: allowInsecureOnRequest now works for subscr"
+[11h ago]  created branch  →  instudy-mveu-ui-fix-tampermonkey  "main"
+[22h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.2"
+[22h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: always use IPC proxy when VPN is active for"
+[23h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.1"
+[23h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: allowInsecureOnRequest now works for subscr"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
