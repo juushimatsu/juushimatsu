@@ -64,8 +64,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[8h ago]  created branch  →  instudy-mveu-ui-fix-extension  "main"
-[22h ago]  created branch  →  instudy-mveu-ui-fix-tampermonkey  "main"
+[9h ago]  created branch  →  instudy-mveu-ui-fix-extension  "main"
+[23h ago]  created branch  →  instudy-mveu-ui-fix-tampermonkey  "main"
 [1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.2"
 [1d ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: always use IPC proxy when VPN is active for"
 [1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.1"
@@ -73,7 +73,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
+[2d ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
 ```
 <!-- ACTIVITY:END -->
 
