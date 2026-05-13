@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[9h ago]  created branch  →  instudy-mveu-ui-fix-extension  "main"
-[23h ago]  created branch  →  instudy-mveu-ui-fix-tampermonkey  "main"
+[23m ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.6"
+[59m ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(ci): remove hardcoded Windows JDK path from "
+[1h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): correct VpnService.protect() handli"
+[11h ago]  created branch  →  instudy-mveu-ui-fix-extension  "main"
+[1d ago]  created branch  →  instudy-mveu-ui-fix-tampermonkey  "main"
 [1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.2"
 [1d ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: always use IPC proxy when VPN is active for"
 [1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.1"
 [1d ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: allowInsecureOnRequest now works for subscr"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): MkdirAll must precede WriteFile"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): ensure directory exists before w"
-[2d ago]  committed      →  Oleglog/Olcrtc_manager  "feat: random slug, styled radios, sub instance m"
+[2d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(instances): do not clear room_id when creati"
 ```
 <!-- ACTIVITY:END -->
 
