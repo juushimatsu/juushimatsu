@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[10m ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.7"
-[31m ago]  committed      →  Oleglog/Exclave_olcrtc  "chore: bump version to 0.17.38-olcrtc.7 (363)"
-[48m ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: remove vendored olcrtc LICENSE to preserve "
-[1h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): patch Go library for stable wbstrea"
-[10h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.6"
-[11h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(ci): remove hardcoded Windows JDK path from "
-[11h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): correct VpnService.protect() handli"
-[22h ago]  created branch  →  instudy-mveu-ui-fix-extension  "main"
+[2h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.7"
+[2h ago]  committed      →  Oleglog/Exclave_olcrtc  "chore: bump version to 0.17.38-olcrtc.7 (363)"
+[3h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: remove vendored olcrtc LICENSE to preserve "
+[3h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): patch Go library for stable wbstrea"
+[13h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.6"
+[13h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(ci): remove hardcoded Windows JDK path from "
+[13h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): correct VpnService.protect() handli"
+[1d ago]  created branch  →  instudy-mveu-ui-fix-extension  "main"
 [1d ago]  created branch  →  instudy-mveu-ui-fix-tampermonkey  "main"
-[1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.2"
+[2d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.2"
 ```
 <!-- ACTIVITY:END -->
 
