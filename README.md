@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[7h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.3.0"
-[8h ago]  created branch  →  Oleglog/Olcrtc_manager  "refactor-universal-carrier-fork"
-[8h ago]  PR closed      →  openlibrecommunity/olcrtc  "untitled"
-[8h ago]  PR opened      →  openlibrecommunity/olcrtc  "untitled"
-[8h ago]  created branch  →  Oleglog/Olcrtc_manager  "refactor-universal-carrier-fork"
-[12h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.7"
-[13h ago]  committed      →  Oleglog/Exclave_olcrtc  "chore: bump version to 0.17.38-olcrtc.7 (363)"
-[13h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: remove vendored olcrtc LICENSE to preserve "
-[13h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): patch Go library for stable wbstrea"
-[23h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.6"
+[31m ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.9"
+[41m ago]  committed      →  Oleglog/Exclave_olcrtc  "[C1..C10] olcRTC client overhaul: server-issued "
+[9h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.3.0"
+[9h ago]  created branch  →  Oleglog/Olcrtc_manager  "refactor-universal-carrier-fork"
+[9h ago]  PR closed      →  openlibrecommunity/olcrtc  "untitled"
+[9h ago]  PR opened      →  openlibrecommunity/olcrtc  "untitled"
+[9h ago]  created branch  →  Oleglog/Olcrtc_manager  "refactor-universal-carrier-fork"
+[14h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.7"
+[14h ago]  committed      →  Oleglog/Exclave_olcrtc  "chore: bump version to 0.17.38-olcrtc.7 (363)"
+[15h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: remove vendored olcrtc LICENSE to preserve "
 ```
 <!-- ACTIVITY:END -->
 
