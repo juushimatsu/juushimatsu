@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[4h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.7"
-[4h ago]  committed      →  Oleglog/Exclave_olcrtc  "chore: bump version to 0.17.38-olcrtc.7 (363)"
-[5h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: remove vendored olcrtc LICENSE to preserve "
-[5h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): patch Go library for stable wbstrea"
-[15h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.6"
-[15h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(ci): remove hardcoded Windows JDK path from "
-[15h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): correct VpnService.protect() handli"
-[1d ago]  created branch  →  instudy-mveu-ui-fix-extension  "main"
-[1d ago]  created branch  →  instudy-mveu-ui-fix-tampermonkey  "main"
-[2d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.2"
+[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.3.0"
+[2h ago]  created branch  →  Oleglog/Olcrtc_manager  "refactor-universal-carrier-fork"
+[2h ago]  PR closed      →  openlibrecommunity/olcrtc  "untitled"
+[2h ago]  PR opened      →  openlibrecommunity/olcrtc  "untitled"
+[2h ago]  created branch  →  Oleglog/Olcrtc_manager  "refactor-universal-carrier-fork"
+[6h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.7"
+[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "chore: bump version to 0.17.38-olcrtc.7 (363)"
+[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: remove vendored olcrtc LICENSE to preserve "
+[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): patch Go library for stable wbstrea"
+[17h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.6"
 ```
 <!-- ACTIVITY:END -->
 
