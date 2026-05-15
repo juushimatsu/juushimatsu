@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "Update README with known issues and branch link"
-[2h ago]  committed      →  Oleglog/Exclave_olcrtc  "update readme"
-[3h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: force tcp4 + resolver in DialCont"
-[4h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: switch default DNS to 77.88.8.8 ("
-[5h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: force TCP/53 for DNS resolver  UD"
-[9h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] auth/salutejazz: protect HTTP path against"
-[12h ago]  committed      →  Oleglog/Exclave_olcrtc  "[C1..C10] olcRTC client overhaul: server-issued "
-[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "chore: bump version to 0.17.38-olcrtc.7 (363)"
-[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "fix: remove vendored olcrtc LICENSE to preserve "
-[1d ago]  committed      →  Oleglog/Exclave_olcrtc  "fix(olcrtc): patch Go library for stable wbstrea"
+[4h ago]  committed      →  Oleglog/Olcrtc_manager  "Update README with known issues and branch link"
+[4h ago]  committed      →  Oleglog/Exclave_olcrtc  "update readme"
+[5h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.13"
+[5h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: force tcp4 + resolver in DialCont"
+[6h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.12"
+[6h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: switch default DNS to 77.88.8.8 ("
+[6h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.11"
+[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: force TCP/53 for DNS resolver  UD"
+[11h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.10"
+[11h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] auth/salutejazz: protect HTTP path against"
 ```
 <!-- ACTIVITY:END -->
 
