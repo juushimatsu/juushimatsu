@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[6h ago]  committed      →  Oleglog/Olcrtc_manager  "Update README with known issues and branch link"
-[6h ago]  committed      →  Oleglog/Exclave_olcrtc  "update readme"
-[7h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.13"
-[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: force tcp4 + resolver in DialCont"
-[8h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.12"
-[8h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: switch default DNS to 77.88.8.8 ("
-[9h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.11"
-[9h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: force TCP/53 for DNS resolver  UD"
-[13h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.10"
-[13h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] auth/salutejazz: protect HTTP path against"
+[7h ago]  committed      →  Oleglog/Olcrtc_manager  "Update README with known issues and branch link"
+[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "update readme"
+[9h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.13"
+[9h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: force tcp4 + resolver in DialCont"
+[9h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.12"
+[10h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: switch default DNS to 77.88.8.8 ("
+[10h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.11"
+[10h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: force TCP/53 for DNS resolver  UD"
+[15h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.10"
+[15h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] auth/salutejazz: protect HTTP path against"
 ```
 <!-- ACTIVITY:END -->
 
