@@ -64,16 +64,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[5m ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] auth/salutejazz: protect HTTP path against"
-[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.5.1"
-[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.5.0"
-[2h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.9"
-[3h ago]  committed      →  Oleglog/Exclave_olcrtc  "[C1..C10] olcRTC client overhaul: server-issued "
-[11h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.3.0"
-[12h ago]  created branch  →  Oleglog/Olcrtc_manager  "refactor-universal-carrier-fork"
-[12h ago]  PR closed      →  openlibrecommunity/olcrtc  "untitled"
-[12h ago]  PR opened      →  openlibrecommunity/olcrtc  "untitled"
-[12h ago]  created branch  →  Oleglog/Olcrtc_manager  "refactor-universal-carrier-fork"
+[4h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.10"
+[4h ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] auth/salutejazz: protect HTTP path against"
+[5h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.5.1"
+[6h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.5.0"
+[7h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.9"
+[7h ago]  committed      →  Oleglog/Exclave_olcrtc  "[C1..C10] olcRTC client overhaul: server-issued "
+[16h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.3.0"
+[16h ago]  created branch  →  Oleglog/Olcrtc_manager  "refactor-universal-carrier-fork"
+[16h ago]  PR closed      →  openlibrecommunity/olcrtc  "untitled"
+[16h ago]  PR opened      →  openlibrecommunity/olcrtc  "untitled"
 ```
 <!-- ACTIVITY:END -->
 
