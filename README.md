@@ -64,9 +64,9 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[11h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.14"
-[11h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add Jitsi provider, fix seichannel transpo"
-[12h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.5.3"
+[12h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.14"
+[12h ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add Jitsi provider, fix seichannel transpo"
+[13h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.5.3"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "Update README with known issues and branch link"
 [1d ago]  committed      →  Oleglog/Exclave_olcrtc  "update readme"
 [1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.13"
