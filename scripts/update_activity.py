@@ -48,6 +48,51 @@ def fetch_events() -> list[dict]:
     return r.json()
 
 
+def fetch_own_repos() -> list[str]:
+    """List repos owned by the user."""
+    if not PAT_HEADERS:
+        print("PAT_TOKEN not set, skipping own repos")
+        return []
+    url = f"https://api.github.com/users/{USERNAME}/repos?type=owner&per_page=100"
+    try:
+        r = requests.get(url, headers=PAT_HEADERS, timeout=15)
+        r.raise_for_status()
+        repos = [repo["full_name"] for repo in r.json()]
+        print(f"Own repos: {repos}")
+        return repos
+    except Exception as e:
+        print(f"Warning: fetch_own_repos failed: {e}")
+        return []
+
+
+def fetch_own_commits(repos: list[str]) -> list[tuple[str, str, str]]:
+    """Fetch recent commits by USERNAME from each owned repo."""
+    results = []
+    for repo_name in repos:
+        url = (
+            f"https://api.github.com/repos/{repo_name}/commits"
+            f"?author={USERNAME}&per_page=10"
+        )
+        try:
+            r = requests.get(url, headers=PAT_HEADERS, timeout=15)
+            r.raise_for_status()
+            for c in r.json():
+                sha = c.get("sha", "")[:7]
+                commit = c.get("commit", {})
+                msg = commit.get("message", "").split("\n")[0][:48]
+                iso = commit.get("author", {}).get("date", "")
+                if not iso:
+                    continue
+                when = time_ago(iso)
+                repo_short = repo_name.replace(f"{USERNAME}/", "")
+                label = f"[{when:>6}]  committed      →  {repo_short}  \"{msg}\""
+                results.append((iso, label, f"own-{sha}"))
+        except Exception as e:
+            print(f"Warning: commits from {repo_name} failed: {e}")
+    print(f"Fetched {len(results)} commits from {len(repos)} own repos")
+    return results
+
+
 def fetch_collab_repos() -> list[str]:
     """List repos where the user is a collaborator (not owner)."""
     if not PAT_HEADERS:
@@ -191,14 +236,16 @@ def update_readme(lines: list[str]) -> None:
 
 
 def build_activity() -> list[str]:
-    ev_items     = parse_events(fetch_events())
-    collab_repos = fetch_collab_repos()
-    commit_items = fetch_collab_commits(collab_repos)
+    ev_items      = parse_events(fetch_events())
+    collab_repos  = fetch_collab_repos()
+    collab_commits = fetch_collab_commits(collab_repos)
+    own_repos     = fetch_own_repos()
+    own_commits   = fetch_own_commits(own_repos)
 
     # merge & deduplicate
     seen  = set()
     merged = []
-    for iso, label, key in ev_items + commit_items:
+    for iso, label, key in ev_items + own_commits + collab_commits:
         if key not in seen:
             seen.add(key)
             merged.append((iso, label))
