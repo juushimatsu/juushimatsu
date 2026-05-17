@@ -64,6 +64,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[36m ago]  created branch  →  rbxsnipeh  "main"
 [1d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.14"
 [1d ago]  committed      →  Oleglog/Exclave_olcrtc  "feat: add Jitsi provider, fix seichannel transpo"
 [1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.5.3"
@@ -73,7 +74,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [2d ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: force tcp4 + resolver in DialCont"
 [2d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.12"
 [2d ago]  committed      →  Oleglog/Exclave_olcrtc  "[fix] protect: switch default DNS to 77.88.8.8 ("
-[2d ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.38-olcrtc.11"
 ```
 <!-- ACTIVITY:END -->
 
