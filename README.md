@@ -68,8 +68,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 ```
 [2d ago]  committed      →  rbxsnipeh  "stable"
 [2d ago]  committed      →  juushimatsu  "update"
-[2d ago]  committed      →  rbxsnipeh  "34 upd"
-[2d ago]  committed      →  rbxsnipeh  "delete global values"
+[3d ago]  committed      →  rbxsnipeh  "34 upd"
+[3d ago]  committed      →  rbxsnipeh  "delete global values"
 [3d ago]  committed      →  rbxsnipeh  "crash fix"
 [3d ago]  committed      →  rbxsnipeh  "load fix 3"
 [3d ago]  committed      →  rbxsnipeh  "load fix 2"
