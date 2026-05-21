@@ -66,8 +66,9 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[31m ago]  committed      →  instudy-mveu-ui-fix-extension  "update manifest 1.3.0"
 [3d ago]  committed      →  rbxsnipeh  "stable"
-[3d ago]  committed      →  juushimatsu  "update"
+[4d ago]  committed      →  juushimatsu  "update"
 [4d ago]  committed      →  rbxsnipeh  "34 upd"
 [4d ago]  committed      →  rbxsnipeh  "delete global values"
 [4d ago]  committed      →  rbxsnipeh  "crash fix"
@@ -75,7 +76,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [4d ago]  committed      →  rbxsnipeh  "load fix 2"
 [4d ago]  committed      →  rbxsnipeh  "load fix"
 [4d ago]  committed      →  rbxsnipeh  "crash fix"
-[4d ago]  created branch  →  rbxsnipeh  "main"
 ```
 <!-- ACTIVITY:END -->
 
