@@ -66,16 +66,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[20h ago]  committed      →  instudy-mveu-ui-fix-extension  "update 1.3.1"
-[20h ago]  committed      →  instudy-mveu-ui-fix-extension  "cards fix"
-[22h ago]  committed      →  instudy-mveu-ui-fix-extension  "update manifest 1.3.0"
+[1m ago]  created branch  →  Oleglog/Olcrtc_manager  "legacy-master"
+[10m ago]  committed      →  Oleglog/Olcrtc_manager  "adapt admin UI and fork-specific code after upst"
+[43m ago]  committed      →  Oleglog/Olcrtc_manager  "merge upstream/master: accept all upstream commi"
+[22h ago]  committed      →  instudy-mveu-ui-fix-extension  "update 1.3.1"
+[22h ago]  committed      →  instudy-mveu-ui-fix-extension  "cards fix"
+[1d ago]  committed      →  instudy-mveu-ui-fix-extension  "update manifest 1.3.0"
 [4d ago]  committed      →  rbxsnipeh  "stable"
-[4d ago]  committed      →  juushimatsu  "update"
+[5d ago]  committed      →  juushimatsu  "update"
 [5d ago]  committed      →  rbxsnipeh  "34 upd"
 [5d ago]  committed      →  rbxsnipeh  "delete global values"
-[5d ago]  committed      →  rbxsnipeh  "crash fix"
-[5d ago]  committed      →  rbxsnipeh  "load fix 3"
-[5d ago]  committed      →  rbxsnipeh  "load fix 2"
 ```
 <!-- ACTIVITY:END -->
 
