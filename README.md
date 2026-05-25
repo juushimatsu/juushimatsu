@@ -73,7 +73,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [3d ago]  committed      →  instudy-mveu-ui-fix-extension  "update 1.3.1"
 [3d ago]  committed      →  instudy-mveu-ui-fix-extension  "cards fix"
 [3d ago]  committed      →  instudy-mveu-ui-fix-extension  "update manifest 1.3.0"
-[6d ago]  committed      →  rbxsnipeh  "stable"
+[1w ago]  committed      →  rbxsnipeh  "stable"
 [1w ago]  committed      →  juushimatsu  "update"
 [1w ago]  committed      →  rbxsnipeh  "34 upd"
 ```
