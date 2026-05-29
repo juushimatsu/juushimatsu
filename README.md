@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.40-olcrtc.4"
-[3h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.8.2"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "chore: bump INSTALLER_VERSION to 1.8.2 for vp8ch"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "chore: update go.mod after vp8channel multi-peer"
-[20h ago]  committed      →  rbxsnipeh  "Unify ENI hub: add aimbot, TP, GUI, refactor ESP"
-[20h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Cleanup stale SSH tunnels and bind -R to localho"
-[21h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve proxy/tunnel stop/start checks and fallb"
-[21h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve process termination and zombie handling"
-[21h ago]  created branch  →  Termux-Proxy-Tunnel-Utility  "main"
-[21h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Add Termux Proxy Tunnel utility"
+[1m ago]  committed      →  infinity-room-panel  "Update copyright information in LICENSE file"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Add call/room management information to README"
+[1h ago]  committed      →  juushimatsu  "Add two project links to README"
+[1h ago]  committed      →  infinity-room-panel  "Remove detailed audio fix analysis references"
+[1h ago]  created branch  →  infinity-room-panel  "main"
+[1h ago]  committed      →  infinity-room-panel  "Initial import: AudioBot Panel"
+[5h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.40-olcrtc.4"
+[7h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.8.2"
+[7h ago]  committed      →  Oleglog/Olcrtc_manager  "chore: bump INSTALLER_VERSION to 1.8.2 for vp8ch"
+[7h ago]  committed      →  Oleglog/Olcrtc_manager  "chore: update go.mod after vp8channel multi-peer"
 ```
 <!-- ACTIVITY:END -->
 
