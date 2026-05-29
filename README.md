@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1m ago]  committed      →  infinity-room-panel  "Update copyright information in LICENSE file"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Add call/room management information to README"
-[1h ago]  committed      →  juushimatsu  "Add two project links to README"
-[1h ago]  committed      →  infinity-room-panel  "Remove detailed audio fix analysis references"
-[1h ago]  created branch  →  infinity-room-panel  "main"
-[1h ago]  committed      →  infinity-room-panel  "Initial import: AudioBot Panel"
-[5h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.40-olcrtc.4"
-[7h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.8.2"
-[7h ago]  committed      →  Oleglog/Olcrtc_manager  "chore: bump INSTALLER_VERSION to 1.8.2 for vp8ch"
-[7h ago]  committed      →  Oleglog/Olcrtc_manager  "chore: update go.mod after vp8channel multi-peer"
+[1h ago]  committed      →  infinity-room-panel  "Fix: generate password in web mode when config w"
+[2h ago]  committed      →  infinity-room-panel  "Optimize Electron wrapper for weak ARM devices"
+[2h ago]  committed      →  infinity-room-panel  "Update copyright information in LICENSE file"
+[4h ago]  committed      →  Oleglog/Olcrtc_manager  "Add call/room management information to README"
+[4h ago]  committed      →  juushimatsu  "Add two project links to README"
+[4h ago]  committed      →  infinity-room-panel  "Remove detailed audio fix analysis references"
+[4h ago]  created branch  →  infinity-room-panel  "main"
+[4h ago]  committed      →  infinity-room-panel  "Initial import: AudioBot Panel"
+[8h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.40-olcrtc.4"
+[9h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.8.2"
 ```
 <!-- ACTIVITY:END -->
 
