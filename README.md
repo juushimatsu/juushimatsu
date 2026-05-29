@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1h ago]  committed      →  infinity-room-panel  "Fix: generate password in web mode when config w"
-[2h ago]  committed      →  infinity-room-panel  "Optimize Electron wrapper for weak ARM devices"
-[2h ago]  committed      →  infinity-room-panel  "Update copyright information in LICENSE file"
-[4h ago]  committed      →  Oleglog/Olcrtc_manager  "Add call/room management information to README"
-[4h ago]  committed      →  juushimatsu  "Add two project links to README"
-[4h ago]  committed      →  infinity-room-panel  "Remove detailed audio fix analysis references"
-[4h ago]  created branch  →  infinity-room-panel  "main"
-[4h ago]  committed      →  infinity-room-panel  "Initial import: AudioBot Panel"
-[8h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.40-olcrtc.4"
-[9h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.8.2"
+[45m ago]  release published  →  infinity-room-panel  "v1.0.1"
+[1h ago]  release published  →  infinity-room-panel  "v1.0.0"
+[1h ago]  created branch  →  infinity-room-panel  "preact-vite-migration"
+[4h ago]  committed      →  infinity-room-panel  "Fix: generate password in web mode when config w"
+[4h ago]  committed      →  infinity-room-panel  "Optimize Electron wrapper for weak ARM devices"
+[5h ago]  committed      →  infinity-room-panel  "Update copyright information in LICENSE file"
+[6h ago]  committed      →  Oleglog/Olcrtc_manager  "Add call/room management information to README"
+[6h ago]  committed      →  juushimatsu  "Add two project links to README"
+[6h ago]  committed      →  infinity-room-panel  "Remove detailed audio fix analysis references"
+[6h ago]  created branch  →  infinity-room-panel  "main"
 ```
 <!-- ACTIVITY:END -->
 
