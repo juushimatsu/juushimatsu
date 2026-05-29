@@ -53,6 +53,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 | [Duplicating-Sound-Linux→Windows](https://github.com/juushimatsu/Duplicating-Sound-from-Linux-to-Windows) | stream audio from Linux mini-PC to Windows via RTP/VLC |
 | [instudy-mveu-ui-fix-extension](https://github.com/juushimatsu/instudy-mveu-ui-fix-extension) | dark monochrome theme for disto.mveu.ru |
 | [instudy-mveu-ui-fix-tampermonkey](https://github.com/juushimatsu/instudy-mveu-ui-fix-tampermonkey) | full UI overhaul for disto.mveu.ru — 5 color schemes |
+| [infinity-room-panel](https://github.com/juushimatsu/infinity-room-panel) | web panel for managing audio bots in Jitsi/Yandex Telemost/WB Stream rooms (MP3→Opus via WebRTC) |
+| [Termux-Proxy-Tunnel-Utility](https://github.com/juushimatsu/Termux-Proxy-Tunnel-Utility) | local proxy (HTTP/SOCKS5) on Android + reverse SSH tunnel to remote machine |
 
 **Past**
 
