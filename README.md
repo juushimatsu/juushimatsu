@@ -66,16 +66,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[12h ago]  committed      →  rbxsnipeh  "Unify ENI hub: add aimbot, TP, GUI, refactor ESP"
-[12h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Cleanup stale SSH tunnels and bind -R to localho"
-[13h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve proxy/tunnel stop/start checks and fallb"
-[13h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve process termination and zombie handling"
-[14h ago]  created branch  →  Termux-Proxy-Tunnel-Utility  "main"
-[14h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Add Termux Proxy Tunnel utility"
-[14h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Initial commit"
-[1d ago]  created branch  →  vk-bot-vpn-status  "main"
-[1d ago]  committed      →  vk-bot-vpn-status  "Add VK bot for VPN access management"
-[2d ago]  committed      →  vk-bot-vpn-status  "Initial commit"
+[8m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.8.2"
+[12m ago]  committed      →  Oleglog/Olcrtc_manager  "chore: bump INSTALLER_VERSION to 1.8.2 for vp8ch"
+[24m ago]  committed      →  Oleglog/Olcrtc_manager  "chore: update go.mod after vp8channel multi-peer"
+[17h ago]  committed      →  rbxsnipeh  "Unify ENI hub: add aimbot, TP, GUI, refactor ESP"
+[17h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Cleanup stale SSH tunnels and bind -R to localho"
+[18h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve proxy/tunnel stop/start checks and fallb"
+[18h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve process termination and zombie handling"
+[18h ago]  created branch  →  Termux-Proxy-Tunnel-Utility  "main"
+[18h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Add Termux Proxy Tunnel utility"
+[19h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Initial commit"
 ```
 <!-- ACTIVITY:END -->
 
