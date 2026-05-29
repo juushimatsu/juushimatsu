@@ -66,16 +66,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[8m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.8.2"
-[12m ago]  committed      →  Oleglog/Olcrtc_manager  "chore: bump INSTALLER_VERSION to 1.8.2 for vp8ch"
-[24m ago]  committed      →  Oleglog/Olcrtc_manager  "chore: update go.mod after vp8channel multi-peer"
-[17h ago]  committed      →  rbxsnipeh  "Unify ENI hub: add aimbot, TP, GUI, refactor ESP"
-[17h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Cleanup stale SSH tunnels and bind -R to localho"
-[18h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve proxy/tunnel stop/start checks and fallb"
-[18h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve process termination and zombie handling"
-[18h ago]  created branch  →  Termux-Proxy-Tunnel-Utility  "main"
-[18h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Add Termux Proxy Tunnel utility"
-[19h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Initial commit"
+[1h ago]  release published  →  Oleglog/Exclave_olcrtc  "v0.17.40-olcrtc.4"
+[3h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.8.2"
+[3h ago]  committed      →  Oleglog/Olcrtc_manager  "chore: bump INSTALLER_VERSION to 1.8.2 for vp8ch"
+[3h ago]  committed      →  Oleglog/Olcrtc_manager  "chore: update go.mod after vp8channel multi-peer"
+[20h ago]  committed      →  rbxsnipeh  "Unify ENI hub: add aimbot, TP, GUI, refactor ESP"
+[20h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Cleanup stale SSH tunnels and bind -R to localho"
+[21h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve proxy/tunnel stop/start checks and fallb"
+[21h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Improve process termination and zombie handling"
+[21h ago]  created branch  →  Termux-Proxy-Tunnel-Utility  "main"
+[21h ago]  committed      →  Termux-Proxy-Tunnel-Utility  "Add Termux Proxy Tunnel utility"
 ```
 <!-- ACTIVITY:END -->
 
