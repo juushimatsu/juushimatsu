@@ -77,7 +77,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1d ago]  committed      →  infinity-room-panel  "Fix: generate password in web mode when config w"
 [1d ago]  committed      →  infinity-room-panel  "Optimize Electron wrapper for weak ARM devices"
 [1d ago]  committed      →  infinity-room-panel  "Update copyright information in LICENSE file"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "Add call/room management information to README"
+[2d ago]  committed      →  Oleglog/Olcrtc_manager  "Add call/room management information to README"
 ```
 <!-- ACTIVITY:END -->
 
