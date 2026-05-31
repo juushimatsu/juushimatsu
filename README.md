@@ -74,8 +74,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1d ago]  release published  →  infinity-room-panel  "v1.0.1"
 [1d ago]  release published  →  infinity-room-panel  "v1.0.0"
 [1d ago]  created branch  →  infinity-room-panel  "preact-vite-migration"
-[1d ago]  committed      →  infinity-room-panel  "Fix: generate password in web mode when config w"
-[1d ago]  committed      →  infinity-room-panel  "Optimize Electron wrapper for weak ARM devices"
+[2d ago]  committed      →  infinity-room-panel  "Fix: generate password in web mode when config w"
+[2d ago]  committed      →  infinity-room-panel  "Optimize Electron wrapper for weak ARM devices"
 [2d ago]  committed      →  infinity-room-panel  "Update copyright information in LICENSE file"
 [2d ago]  committed      →  Oleglog/Olcrtc_manager  "Add call/room management information to README"
 ```
