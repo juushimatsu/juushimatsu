@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[35m ago]  committed      →  infinity-room-panel  "Update README with compatibility and known issue"
-[37m ago]  committed      →  infinity-room-panel  "Fix traffic error message and update Olcrtc_mana"
-[40m ago]  issue closed    →  Oleglog/Exclave_olcrtc  "Невозможно добавить сервер"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Disable LiveKit auto-subscribe and adjust handle"
-[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.1"
+[52m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(vp8channel): revert AutoSubscribe=false, kee"
+[54m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.2"
+[4h ago]  committed      →  infinity-room-panel  "Update README with compatibility and known issue"
+[5h ago]  committed      →  infinity-room-panel  "Fix traffic error message and update Olcrtc_mana"
+[5h ago]  issue closed    →  Oleglog/Exclave_olcrtc  "Невозможно добавить сервер"
+[5h ago]  committed      →  Oleglog/Olcrtc_manager  "Disable LiveKit auto-subscribe and adjust handle"
+[5h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.1"
 [2d ago]  committed      →  infinity-room-panel  "Fix error message and compatibility information"
 [2d ago]  committed      →  infinity-room-panel  "Update README with traffic error and compatibili"
 [2d ago]  release published  →  infinity-room-panel  "v1.1.0"
-[2d ago]  release published  →  infinity-room-panel  "v1.0.1"
-[2d ago]  release published  →  infinity-room-panel  "v1.0.0"
 ```
 <!-- ACTIVITY:END -->
 
