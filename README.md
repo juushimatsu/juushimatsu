@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[35m ago]  committed      →  infinity-room-panel  "Update README with compatibility and known issue"
+[37m ago]  committed      →  infinity-room-panel  "Fix traffic error message and update Olcrtc_mana"
+[40m ago]  issue closed    →  Oleglog/Exclave_olcrtc  "Невозможно добавить сервер"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Disable LiveKit auto-subscribe and adjust handle"
+[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.1"
 [2d ago]  committed      →  infinity-room-panel  "Fix error message and compatibility information"
 [2d ago]  committed      →  infinity-room-panel  "Update README with traffic error and compatibili"
 [2d ago]  release published  →  infinity-room-panel  "v1.1.0"
 [2d ago]  release published  →  infinity-room-panel  "v1.0.1"
 [2d ago]  release published  →  infinity-room-panel  "v1.0.0"
-[2d ago]  created branch  →  infinity-room-panel  "preact-vite-migration"
-[2d ago]  committed      →  infinity-room-panel  "Fix: generate password in web mode when config w"
-[2d ago]  committed      →  infinity-room-panel  "Optimize Electron wrapper for weak ARM devices"
-[2d ago]  committed      →  infinity-room-panel  "Update copyright information in LICENSE file"
-[2d ago]  committed      →  Oleglog/Olcrtc_manager  "Add call/room management information to README"
 ```
 <!-- ACTIVITY:END -->
 
