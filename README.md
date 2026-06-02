@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[39m ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.5"
-[47m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): rollback periodic setSlots, keep ke"
-[1h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.4"
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): polling-based setSlots resubscribe "
-[21h ago]  committed      →  infinity-room-panel  "Fix formatting and update error message in READM"
-[21h ago]  committed      →  infinity-room-panel  "Update README with traffic and compatibility not"
-[21h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(vp8channel): AutoSubscribe=false + post-conn"
-[21h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.3"
-[23h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(vp8channel): revert AutoSubscribe=false, kee"
-[23h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.2"
+[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.6"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): revert key increment, remove subscr"
+[3h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.5"
+[3h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): rollback periodic setSlots, keep ke"
+[5h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.4"
+[5h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): polling-based setSlots resubscribe "
+[1d ago]  committed      →  infinity-room-panel  "Fix formatting and update error message in READM"
+[1d ago]  committed      →  infinity-room-panel  "Update README with traffic and compatibility not"
+[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(vp8channel): AutoSubscribe=false + post-conn"
+[1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.3"
 ```
 <!-- ACTIVITY:END -->
 
