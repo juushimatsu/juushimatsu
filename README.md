@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[2h ago]  committed      →  infinity-room-panel  "Fix formatting and update error message in READM"
-[2h ago]  committed      →  infinity-room-panel  "Update README with traffic and compatibility not"
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(vp8channel): AutoSubscribe=false + post-conn"
-[2h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.3"
-[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(vp8channel): revert AutoSubscribe=false, kee"
-[4h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.2"
-[8h ago]  committed      →  infinity-room-panel  "Update README with compatibility and known issue"
-[8h ago]  committed      →  infinity-room-panel  "Fix traffic error message and update Olcrtc_mana"
-[9h ago]  issue closed    →  Oleglog/Exclave_olcrtc  "Невозможно добавить сервер"
-[9h ago]  committed      →  Oleglog/Olcrtc_manager  "Disable LiveKit auto-subscribe and adjust handle"
+[7h ago]  committed      →  infinity-room-panel  "Fix formatting and update error message in READM"
+[7h ago]  committed      →  infinity-room-panel  "Update README with traffic and compatibility not"
+[8h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(vp8channel): AutoSubscribe=false + post-conn"
+[8h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.3"
+[10h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(vp8channel): revert AutoSubscribe=false, kee"
+[10h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.2"
+[14h ago]  committed      →  infinity-room-panel  "Update README with compatibility and known issue"
+[14h ago]  committed      →  infinity-room-panel  "Fix traffic error message and update Olcrtc_mana"
+[14h ago]  issue closed    →  Oleglog/Exclave_olcrtc  "Невозможно добавить сервер"
+[14h ago]  committed      →  Oleglog/Olcrtc_manager  "Disable LiveKit auto-subscribe and adjust handle"
 ```
 <!-- ACTIVITY:END -->
 
