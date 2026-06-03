@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[22h ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.6"
-[23h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): revert key increment, remove subscr"
+[15m ago]  committed      →  wifi-auto-test  "Improve AP setup and monitor-mode handling"
+[25m ago]  committed      →  wifi-auto-test  "Improve Linux AP setup and wash scanner"
+[40m ago]  committed      →  wifi-auto-test  "AP manager: store interface and verify daemons"
+[1h ago]  committed      →  wifi-auto-test  "Clarify README: generic SBC/PC and install steps"
+[2h ago]  created branch  →  wifi-auto-test  "master"
+[2h ago]  committed      →  wifi-auto-test  "Remove WiFi Auto Test plan document"
+[2h ago]  committed      →  wifi-auto-test  "Initial implementation: WiFi Auto Test"
+[1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.6"
+[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): revert key increment, remove subscr"
 [1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.5"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): rollback periodic setSlots, keep ke"
-[1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.4"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): polling-based setSlots resubscribe "
-[1d ago]  committed      →  infinity-room-panel  "Fix formatting and update error message in READM"
-[1d ago]  committed      →  infinity-room-panel  "Update README with traffic and compatibility not"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(vp8channel): AutoSubscribe=false + post-conn"
-[1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.3"
 ```
 <!-- ACTIVITY:END -->
 
