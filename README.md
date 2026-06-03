@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[15m ago]  committed      →  wifi-auto-test  "Improve AP setup and monitor-mode handling"
-[25m ago]  committed      →  wifi-auto-test  "Improve Linux AP setup and wash scanner"
-[40m ago]  committed      →  wifi-auto-test  "AP manager: store interface and verify daemons"
-[1h ago]  committed      →  wifi-auto-test  "Clarify README: generic SBC/PC and install steps"
-[2h ago]  created branch  →  wifi-auto-test  "master"
-[2h ago]  committed      →  wifi-auto-test  "Remove WiFi Auto Test plan document"
-[2h ago]  committed      →  wifi-auto-test  "Initial implementation: WiFi Auto Test"
+[1h ago]  committed      →  wifi-auto-test  "Enhance AP manager, apt installer, wash scanner"
+[1h ago]  committed      →  wifi-auto-test  "Enhance Linux AP, apt installer, and wash scanne"
+[2h ago]  committed      →  wifi-auto-test  "Improve AP setup and monitor-mode handling"
+[2h ago]  committed      →  wifi-auto-test  "Improve Linux AP setup and wash scanner"
+[2h ago]  committed      →  wifi-auto-test  "AP manager: store interface and verify daemons"
+[3h ago]  committed      →  wifi-auto-test  "Clarify README: generic SBC/PC and install steps"
+[3h ago]  created branch  →  wifi-auto-test  "master"
+[3h ago]  committed      →  wifi-auto-test  "Remove WiFi Auto Test plan document"
+[4h ago]  committed      →  wifi-auto-test  "Initial implementation: WiFi Auto Test"
 [1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.6"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(goolom): revert key increment, remove subscr"
-[1d ago]  release published  →  Oleglog/Olcrtc_manager  "server-v1.9.5"
 ```
 <!-- ACTIVITY:END -->
 
