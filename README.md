@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1h ago]  committed      →  wifi-auto-test  "Add airbase-ng & airodump-ng fallbacks"
-[1h ago]  committed      →  wifi-auto-test  "Add hostapd driver fallback and iwlist parser"
-[2h ago]  committed      →  wifi-auto-test  "Improve interface detection and hostapd logging"
-[3h ago]  committed      →  wifi-auto-test  "Add hostapd fallback and scanner improvements"
-[3h ago]  committed      →  wifi-auto-test  "Add pytest test suite for core modules"
-[4h ago]  committed      →  wifi-auto-test  "Improve Linux AP and iw scanner robustness"
-[14h ago]  committed      →  wifi-auto-test  "Use nmcli for AP and replace wash with iw"
-[15h ago]  committed      →  wifi-auto-test  "Enhance AP manager, apt installer, wash scanner"
-[16h ago]  committed      →  wifi-auto-test  "Enhance Linux AP, apt installer, and wash scanne"
-[16h ago]  committed      →  wifi-auto-test  "Improve AP setup and monitor-mode handling"
+[3h ago]  committed      →  wifi-auto-test  "Add airbase-ng & airodump-ng fallbacks"
+[4h ago]  committed      →  wifi-auto-test  "Add hostapd driver fallback and iwlist parser"
+[5h ago]  committed      →  wifi-auto-test  "Improve interface detection and hostapd logging"
+[6h ago]  committed      →  wifi-auto-test  "Add hostapd fallback and scanner improvements"
+[6h ago]  committed      →  wifi-auto-test  "Add pytest test suite for core modules"
+[7h ago]  committed      →  wifi-auto-test  "Improve Linux AP and iw scanner robustness"
+[17h ago]  committed      →  wifi-auto-test  "Use nmcli for AP and replace wash with iw"
+[18h ago]  committed      →  wifi-auto-test  "Enhance AP manager, apt installer, wash scanner"
+[19h ago]  committed      →  wifi-auto-test  "Enhance Linux AP, apt installer, and wash scanne"
+[19h ago]  committed      →  wifi-auto-test  "Improve AP setup and monitor-mode handling"
 ```
 <!-- ACTIVITY:END -->
 
