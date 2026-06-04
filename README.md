@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[3h ago]  committed      →  wifi-auto-test  "Add airbase-ng & airodump-ng fallbacks"
-[4h ago]  committed      →  wifi-auto-test  "Add hostapd driver fallback and iwlist parser"
-[5h ago]  committed      →  wifi-auto-test  "Improve interface detection and hostapd logging"
-[6h ago]  committed      →  wifi-auto-test  "Add hostapd fallback and scanner improvements"
-[6h ago]  committed      →  wifi-auto-test  "Add pytest test suite for core modules"
-[7h ago]  committed      →  wifi-auto-test  "Improve Linux AP and iw scanner robustness"
-[17h ago]  committed      →  wifi-auto-test  "Use nmcli for AP and replace wash with iw"
-[18h ago]  committed      →  wifi-auto-test  "Enhance AP manager, apt installer, wash scanner"
-[19h ago]  committed      →  wifi-auto-test  "Enhance Linux AP, apt installer, and wash scanne"
-[19h ago]  committed      →  wifi-auto-test  "Improve AP setup and monitor-mode handling"
+[3m ago]  committed      →  wifi-auto-test  "Add Airodump and Hybrid attack engines"
+[10m ago]  committed      →  Oleglog/Olcrtc_manager  "chore(jitsi): refresh default servers — meet.sma"
+[36m ago]  committed      →  wifi-auto-test  "Add wpa_supplicant AP fallback and hcxtools buil"
+[1h ago]  committed      →  wifi-auto-test  "Enhance IwScanner discovery and tests"
+[6h ago]  committed      →  wifi-auto-test  "Add airbase-ng & airodump-ng fallbacks"
+[7h ago]  committed      →  wifi-auto-test  "Add hostapd driver fallback and iwlist parser"
+[8h ago]  committed      →  wifi-auto-test  "Improve interface detection and hostapd logging"
+[8h ago]  committed      →  wifi-auto-test  "Add hostapd fallback and scanner improvements"
+[9h ago]  committed      →  wifi-auto-test  "Add pytest test suite for core modules"
+[9h ago]  committed      →  wifi-auto-test  "Improve Linux AP and iw scanner robustness"
 ```
 <!-- ACTIVITY:END -->
 
