@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[7h ago]  committed      →  wifi-auto-test  "Use nmcli for AP and replace wash with iw"
-[8h ago]  committed      →  wifi-auto-test  "Enhance AP manager, apt installer, wash scanner"
-[9h ago]  committed      →  wifi-auto-test  "Enhance Linux AP, apt installer, and wash scanne"
-[9h ago]  committed      →  wifi-auto-test  "Improve AP setup and monitor-mode handling"
-[10h ago]  committed      →  wifi-auto-test  "Improve Linux AP setup and wash scanner"
-[10h ago]  committed      →  wifi-auto-test  "AP manager: store interface and verify daemons"
-[11h ago]  committed      →  wifi-auto-test  "Clarify README: generic SBC/PC and install steps"
-[11h ago]  created branch  →  wifi-auto-test  "master"
-[11h ago]  committed      →  wifi-auto-test  "Remove WiFi Auto Test plan document"
-[12h ago]  committed      →  wifi-auto-test  "Initial implementation: WiFi Auto Test"
+[16m ago]  committed      →  wifi-auto-test  "Add hostapd fallback and scanner improvements"
+[43m ago]  committed      →  wifi-auto-test  "Add pytest test suite for core modules"
+[1h ago]  committed      →  wifi-auto-test  "Improve Linux AP and iw scanner robustness"
+[11h ago]  committed      →  wifi-auto-test  "Use nmcli for AP and replace wash with iw"
+[12h ago]  committed      →  wifi-auto-test  "Enhance AP manager, apt installer, wash scanner"
+[13h ago]  committed      →  wifi-auto-test  "Enhance Linux AP, apt installer, and wash scanne"
+[13h ago]  committed      →  wifi-auto-test  "Improve AP setup and monitor-mode handling"
+[13h ago]  committed      →  wifi-auto-test  "Improve Linux AP setup and wash scanner"
+[13h ago]  committed      →  wifi-auto-test  "AP manager: store interface and verify daemons"
+[15h ago]  committed      →  wifi-auto-test  "Clarify README: generic SBC/PC and install steps"
 ```
 <!-- ACTIVITY:END -->
 
