@@ -68,7 +68,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[22h ago]  committed      →  wifi-auto-test  "Fix airodump-ng handshake detection and cap clea"
+[1d ago]  committed      →  wifi-auto-test  "Fix airodump-ng handshake detection and cap clea"
 [1d ago]  committed      →  wifi-auto-test  "Improve AP verification, deauth repetition, iw c"
 [1d ago]  committed      →  wifi-auto-test  "Add aireplay-ng deauth to airodump fallback, upd"
 [1d ago]  committed      →  wifi-auto-test  "Improve client detection and airodump cleanup"
