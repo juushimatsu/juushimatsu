@@ -68,14 +68,14 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[18h ago]  committed      →  wifi-auto-test  "Fix airodump-ng handshake detection and cap clea"
-[19h ago]  committed      →  wifi-auto-test  "Improve AP verification, deauth repetition, iw c"
-[20h ago]  committed      →  wifi-auto-test  "Add aireplay-ng deauth to airodump fallback, upd"
-[20h ago]  committed      →  wifi-auto-test  "Improve client detection and airodump cleanup"
-[21h ago]  committed      →  wifi-auto-test  "Add Airodump and Hybrid attack engines"
-[21h ago]  committed      →  Oleglog/Olcrtc_manager  "chore(jitsi): refresh default servers — meet.sma"
-[21h ago]  committed      →  wifi-auto-test  "Add wpa_supplicant AP fallback and hcxtools buil"
-[23h ago]  committed      →  wifi-auto-test  "Enhance IwScanner discovery and tests"
+[21h ago]  committed      →  wifi-auto-test  "Fix airodump-ng handshake detection and cap clea"
+[22h ago]  committed      →  wifi-auto-test  "Improve AP verification, deauth repetition, iw c"
+[22h ago]  committed      →  wifi-auto-test  "Add aireplay-ng deauth to airodump fallback, upd"
+[23h ago]  committed      →  wifi-auto-test  "Improve client detection and airodump cleanup"
+[23h ago]  committed      →  wifi-auto-test  "Add Airodump and Hybrid attack engines"
+[23h ago]  committed      →  Oleglog/Olcrtc_manager  "chore(jitsi): refresh default servers — meet.sma"
+[1d ago]  committed      →  wifi-auto-test  "Add wpa_supplicant AP fallback and hcxtools buil"
+[1d ago]  committed      →  wifi-auto-test  "Enhance IwScanner discovery and tests"
 [1d ago]  committed      →  wifi-auto-test  "Add airbase-ng & airodump-ng fallbacks"
 [1d ago]  committed      →  wifi-auto-test  "Add hostapd driver fallback and iwlist parser"
 ```
