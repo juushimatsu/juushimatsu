@@ -68,6 +68,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[30m ago]  committed      →  wifi-auto-test  "Detect hcxdumptool options; filter hidden/own AP"
+[56m ago]  committed      →  wifi-auto-test  "Add M1M2 hcxdump parsing and misc fixes"
 [1d ago]  committed      →  wifi-auto-test  "Fix airodump-ng handshake detection and cap clea"
 [1d ago]  committed      →  wifi-auto-test  "Improve AP verification, deauth repetition, iw c"
 [1d ago]  committed      →  wifi-auto-test  "Add aireplay-ng deauth to airodump fallback, upd"
@@ -76,8 +78,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "chore(jitsi): refresh default servers — meet.sma"
 [1d ago]  committed      →  wifi-auto-test  "Add wpa_supplicant AP fallback and hcxtools buil"
 [1d ago]  committed      →  wifi-auto-test  "Enhance IwScanner discovery and tests"
-[2d ago]  committed      →  wifi-auto-test  "Add airbase-ng & airodump-ng fallbacks"
-[2d ago]  committed      →  wifi-auto-test  "Add hostapd driver fallback and iwlist parser"
 ```
 <!-- ACTIVITY:END -->
 
