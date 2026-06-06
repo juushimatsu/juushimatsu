@@ -76,8 +76,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "chore(jitsi): refresh default servers — meet.sma"
 [1d ago]  committed      →  wifi-auto-test  "Add wpa_supplicant AP fallback and hcxtools buil"
 [1d ago]  committed      →  wifi-auto-test  "Enhance IwScanner discovery and tests"
-[1d ago]  committed      →  wifi-auto-test  "Add airbase-ng & airodump-ng fallbacks"
-[1d ago]  committed      →  wifi-auto-test  "Add hostapd driver fallback and iwlist parser"
+[2d ago]  committed      →  wifi-auto-test  "Add airbase-ng & airodump-ng fallbacks"
+[2d ago]  committed      →  wifi-auto-test  "Add hostapd driver fallback and iwlist parser"
 ```
 <!-- ACTIVITY:END -->
 
