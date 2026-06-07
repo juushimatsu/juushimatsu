@@ -68,12 +68,12 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[2h ago]  committed      →  wifi-auto-test  "Reset runtime state and clean timeout captures"
-[4h ago]  committed      →  wifi-auto-test  "Support legacy hcxdumptool and M1M2ROGUE"
-[5h ago]  committed      →  wifi-auto-test  "Detect and use modern hcxdumptool options"
-[5h ago]  committed      →  wifi-auto-test  "Add shutdown/terminate handling and tests"
-[6h ago]  committed      →  wifi-auto-test  "Detect hcxdumptool options; filter hidden/own AP"
-[6h ago]  committed      →  wifi-auto-test  "Add M1M2 hcxdump parsing and misc fixes"
+[4h ago]  committed      →  wifi-auto-test  "Reset runtime state and clean timeout captures"
+[5h ago]  committed      →  wifi-auto-test  "Support legacy hcxdumptool and M1M2ROGUE"
+[6h ago]  committed      →  wifi-auto-test  "Detect and use modern hcxdumptool options"
+[6h ago]  committed      →  wifi-auto-test  "Add shutdown/terminate handling and tests"
+[7h ago]  committed      →  wifi-auto-test  "Detect hcxdumptool options; filter hidden/own AP"
+[8h ago]  committed      →  wifi-auto-test  "Add M1M2 hcxdump parsing and misc fixes"
 [2d ago]  committed      →  wifi-auto-test  "Fix airodump-ng handshake detection and cap clea"
 [2d ago]  committed      →  wifi-auto-test  "Improve AP verification, deauth repetition, iw c"
 [2d ago]  committed      →  wifi-auto-test  "Add aireplay-ng deauth to airodump fallback, upd"
