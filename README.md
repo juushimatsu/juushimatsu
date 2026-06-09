@@ -73,7 +73,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [2d ago]  committed      →  wifi-auto-test  "Detect and use modern hcxdumptool options"
 [2d ago]  committed      →  wifi-auto-test  "Add shutdown/terminate handling and tests"
 [2d ago]  committed      →  wifi-auto-test  "Detect hcxdumptool options; filter hidden/own AP"
-[2d ago]  committed      →  wifi-auto-test  "Add M1M2 hcxdump parsing and misc fixes"
+[3d ago]  committed      →  wifi-auto-test  "Add M1M2 hcxdump parsing and misc fixes"
 [4d ago]  committed      →  wifi-auto-test  "Fix airodump-ng handshake detection and cap clea"
 [4d ago]  committed      →  wifi-auto-test  "Improve AP verification, deauth repetition, iw c"
 [4d ago]  committed      →  wifi-auto-test  "Add aireplay-ng deauth to airodump fallback, upd"
