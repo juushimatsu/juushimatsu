@@ -69,8 +69,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 <!-- ACTIVITY:START -->
 ```
 [6d ago]  committed      →  wifi-auto-test  "Reset runtime state and clean timeout captures"
-[6d ago]  committed      →  wifi-auto-test  "Support legacy hcxdumptool and M1M2ROGUE"
-[6d ago]  committed      →  wifi-auto-test  "Detect and use modern hcxdumptool options"
+[1w ago]  committed      →  wifi-auto-test  "Support legacy hcxdumptool and M1M2ROGUE"
+[1w ago]  committed      →  wifi-auto-test  "Detect and use modern hcxdumptool options"
 [1w ago]  committed      →  wifi-auto-test  "Add shutdown/terminate handling and tests"
 [1w ago]  committed      →  wifi-auto-test  "Detect hcxdumptool options; filter hidden/own AP"
 [1w ago]  committed      →  wifi-auto-test  "Add M1M2 hcxdump parsing and misc fixes"
