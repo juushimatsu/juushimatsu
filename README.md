@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[6d ago]  created branch  →  template  "master"
-[6d ago]  committed      →  template  "first"
+[8m ago]  committed      →  ai-arbuz-provider-api  "feat: one-command Docker installer (install.sh) "
+[29m ago]  committed      →  ai-arbuz-provider-api  "Add Apache 2.0 license file"
+[31m ago]  created branch  →  ai-arbuz-provider-api  "master"
+[32m ago]  committed      →  ai-arbuz-provider-api  "chore: initial public repository"
+[1w ago]  created branch  →  template  "master"
+[1w ago]  committed      →  template  "first"
 [2w ago]  committed      →  wifi-auto-test  "Reset runtime state and clean timeout captures"
 [2w ago]  committed      →  wifi-auto-test  "Support legacy hcxdumptool and M1M2ROGUE"
 [2w ago]  committed      →  wifi-auto-test  "Detect and use modern hcxdumptool options"
 [2w ago]  committed      →  wifi-auto-test  "Add shutdown/terminate handling and tests"
-[2w ago]  committed      →  wifi-auto-test  "Detect hcxdumptool options; filter hidden/own AP"
-[2w ago]  committed      →  wifi-auto-test  "Add M1M2 hcxdump parsing and misc fixes"
-[2w ago]  committed      →  wifi-auto-test  "Fix airodump-ng handshake detection and cap clea"
-[2w ago]  committed      →  wifi-auto-test  "Improve AP verification, deauth repetition, iw c"
 ```
 <!-- ACTIVITY:END -->
 
