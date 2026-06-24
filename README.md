@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[8m ago]  committed      →  ai-arbuz-provider-api  "feat: one-command Docker installer (install.sh) "
-[29m ago]  committed      →  ai-arbuz-provider-api  "Add Apache 2.0 license file"
-[31m ago]  created branch  →  ai-arbuz-provider-api  "master"
-[32m ago]  committed      →  ai-arbuz-provider-api  "chore: initial public repository"
-[1w ago]  created branch  →  template  "master"
-[1w ago]  committed      →  template  "first"
-[2w ago]  committed      →  wifi-auto-test  "Reset runtime state and clean timeout captures"
-[2w ago]  committed      →  wifi-auto-test  "Support legacy hcxdumptool and M1M2ROGUE"
-[2w ago]  committed      →  wifi-auto-test  "Detect and use modern hcxdumptool options"
-[2w ago]  committed      →  wifi-auto-test  "Add shutdown/terminate handling and tests"
+[8m ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
+[22m ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
+[28m ago]  committed      →  ai-arbuz-provider-api  "fix(checker): add snake_case JSON tags so SPA re"
+[51m ago]  committed      →  ai-arbuz-provider-api  "fix(sqlite): cap conn pool + disable mmap to sto"
+[57m ago]  committed      →  ai-arbuz-provider-api  "fix(install): create data dir owned by uid 10001"
+[1h ago]  committed      →  ai-arbuz-provider-api  "Update license section for clarity"
+[1h ago]  committed      →  ai-arbuz-provider-api  "ci: publish Docker image to GHCR on push/tag"
+[1h ago]  committed      →  ai-arbuz-provider-api  "deploy: pull prebuilt GHCR image by default (no "
+[1h ago]  committed      →  ai-arbuz-provider-api  "docs: script-based quick start in README"
+[1h ago]  committed      →  ai-arbuz-provider-api  "feat: one-command Docker installer (install.sh) "
 ```
 <!-- ACTIVITY:END -->
 
