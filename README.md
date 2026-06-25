@@ -22,7 +22,7 @@
 **Currently**
 
 ```yaml
-working_on : Exclave - olcrtc WebRTC support layer
+working_on : ai arbuz provider api - ai api router
 learning   : Django · FastAPI · Go
 looking_for: contributors to olcrtc fork
 location   : private void ()
@@ -47,12 +47,10 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 | repo | description |
 |------|-------------|
+| [ai-arbuz-provider-api](https://github.com/juushimatsu/ai-arbuz-provider-api) | ai key api router |
 | [Exclave_olcrtc](https://github.com/Oleglog/Exclave_olcrtc) | WebRTC support via olcrtc |
 | [olcrtc_manager](https://github.com/Oleglog/Olcrtc_manager) | olcrtc library fork - help wanted |
-| [Upgrading-Windows-rights](https://github.com/juushimatsu/Upgrading-Windows-rights-or-how-to-play-games-on-a-school-PC) | guide: privilege escalation on locked school PCs |
-| [Duplicating-Sound-Linux→Windows](https://github.com/juushimatsu/Duplicating-Sound-from-Linux-to-Windows) | stream audio from Linux mini-PC to Windows via RTP/VLC |
 | [instudy-mveu-ui-fix-extension](https://github.com/juushimatsu/instudy-mveu-ui-fix-extension) | dark monochrome theme for disto.mveu.ru |
-| [instudy-mveu-ui-fix-tampermonkey](https://github.com/juushimatsu/instudy-mveu-ui-fix-tampermonkey) | full UI overhaul for disto.mveu.ru — 5 color schemes |
 | [infinity-room-panel](https://github.com/juushimatsu/infinity-room-panel) | web panel for managing audio bots in Jitsi/Yandex Telemost/WB Stream rooms (MP3→Opus via WebRTC) |
 | [Termux-Proxy-Tunnel-Utility](https://github.com/juushimatsu/Termux-Proxy-Tunnel-Utility) | local proxy (HTTP/SOCKS5) on Android + reverse SSH tunnel to remote machine |
 
@@ -61,6 +59,9 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 | repo | description |
 |------|-------------|
 | [wireguard-turn-android-vpn-bypass](https://github.com/juushimatsu/wireguard-turn-android-vpn-bypass) | Android GUI for WireGuard with TURN - per-app VPN bypass *(archived)* |
+| [instudy-mveu-ui-fix-tampermonkey](https://github.com/juushimatsu/instudy-mveu-ui-fix-tampermonkey) | full UI overhaul for disto.mveu.ru — 5 color schemes |
+| [Upgrading-Windows-rights](https://github.com/juushimatsu/Upgrading-Windows-rights-or-how-to-play-games-on-a-school-PC) | guide: privilege escalation on locked school PCs |
+| [Duplicating-Sound-Linux→Windows](https://github.com/juushimatsu/Duplicating-Sound-from-Linux-to-Windows) | stream audio from Linux mini-PC to Windows via RTP/VLC |
 
 <br>
 
