@@ -68,16 +68,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1h ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
-[1h ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
-[1h ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
-[2h ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
-[2h ago]  committed      →  ai-arbuz-provider-api  "fix(checker): add snake_case JSON tags so SPA re"
-[2h ago]  committed      →  ai-arbuz-provider-api  "fix(sqlite): cap conn pool + disable mmap to sto"
-[2h ago]  committed      →  ai-arbuz-provider-api  "fix(install): create data dir owned by uid 10001"
-[2h ago]  committed      →  ai-arbuz-provider-api  "Update license section for clarity"
-[3h ago]  committed      →  ai-arbuz-provider-api  "ci: publish Docker image to GHCR on push/tag"
-[3h ago]  committed      →  ai-arbuz-provider-api  "deploy: pull prebuilt GHCR image by default (no "
+[5h ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
+[5h ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
+[5h ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
+[5h ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
+[6h ago]  committed      →  ai-arbuz-provider-api  "fix(checker): add snake_case JSON tags so SPA re"
+[6h ago]  committed      →  ai-arbuz-provider-api  "fix(sqlite): cap conn pool + disable mmap to sto"
+[6h ago]  committed      →  ai-arbuz-provider-api  "fix(install): create data dir owned by uid 10001"
+[6h ago]  committed      →  ai-arbuz-provider-api  "Update license section for clarity"
+[6h ago]  committed      →  ai-arbuz-provider-api  "ci: publish Docker image to GHCR on push/tag"
+[6h ago]  committed      →  ai-arbuz-provider-api  "deploy: pull prebuilt GHCR image by default (no "
 ```
 <!-- ACTIVITY:END -->
 
