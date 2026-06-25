@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[5h ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
-[14h ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
-[14h ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
-[15h ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
-[15h ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
-[15h ago]  committed      →  ai-arbuz-provider-api  "fix(checker): add snake_case JSON tags so SPA re"
-[15h ago]  committed      →  ai-arbuz-provider-api  "fix(sqlite): cap conn pool + disable mmap to sto"
-[16h ago]  committed      →  ai-arbuz-provider-api  "fix(install): create data dir owned by uid 10001"
-[16h ago]  committed      →  ai-arbuz-provider-api  "Update license section for clarity"
-[16h ago]  committed      →  ai-arbuz-provider-api  "ci: publish Docker image to GHCR on push/tag"
+[2h ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for stats/logs (empty "
+[8h ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
+[17h ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
+[17h ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
+[18h ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
+[18h ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
+[18h ago]  committed      →  ai-arbuz-provider-api  "fix(checker): add snake_case JSON tags so SPA re"
+[18h ago]  committed      →  ai-arbuz-provider-api  "fix(sqlite): cap conn pool + disable mmap to sto"
+[19h ago]  committed      →  ai-arbuz-provider-api  "fix(install): create data dir owned by uid 10001"
+[19h ago]  committed      →  ai-arbuz-provider-api  "Update license section for clarity"
 ```
 <!-- ACTIVITY:END -->
 
