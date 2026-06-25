@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[9h ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
-[9h ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
-[9h ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
-[9h ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
-[9h ago]  committed      →  ai-arbuz-provider-api  "fix(checker): add snake_case JSON tags so SPA re"
-[10h ago]  committed      →  ai-arbuz-provider-api  "fix(sqlite): cap conn pool + disable mmap to sto"
-[10h ago]  committed      →  ai-arbuz-provider-api  "fix(install): create data dir owned by uid 10001"
-[10h ago]  committed      →  ai-arbuz-provider-api  "Update license section for clarity"
-[10h ago]  committed      →  ai-arbuz-provider-api  "ci: publish Docker image to GHCR on push/tag"
-[10h ago]  committed      →  ai-arbuz-provider-api  "deploy: pull prebuilt GHCR image by default (no "
+[2h ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
+[12h ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
+[12h ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
+[12h ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
+[12h ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
+[12h ago]  committed      →  ai-arbuz-provider-api  "fix(checker): add snake_case JSON tags so SPA re"
+[13h ago]  committed      →  ai-arbuz-provider-api  "fix(sqlite): cap conn pool + disable mmap to sto"
+[13h ago]  committed      →  ai-arbuz-provider-api  "fix(install): create data dir owned by uid 10001"
+[13h ago]  committed      →  ai-arbuz-provider-api  "Update license section for clarity"
+[13h ago]  committed      →  ai-arbuz-provider-api  "ci: publish Docker image to GHCR on push/tag"
 ```
 <!-- ACTIVITY:END -->
 
