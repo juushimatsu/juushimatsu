@@ -74,11 +74,11 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [3d ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
 [3d ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
 [3d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
-[3d ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
-[3d ago]  committed      →  ai-arbuz-provider-api  "fix(checker): add snake_case JSON tags so SPA re"
-[3d ago]  committed      →  ai-arbuz-provider-api  "fix(sqlite): cap conn pool + disable mmap to sto"
-[3d ago]  committed      →  ai-arbuz-provider-api  "fix(install): create data dir owned by uid 10001"
-[3d ago]  committed      →  ai-arbuz-provider-api  "Update license section for clarity"
+[4d ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
+[4d ago]  committed      →  ai-arbuz-provider-api  "fix(checker): add snake_case JSON tags so SPA re"
+[4d ago]  committed      →  ai-arbuz-provider-api  "fix(sqlite): cap conn pool + disable mmap to sto"
+[4d ago]  committed      →  ai-arbuz-provider-api  "fix(install): create data dir owned by uid 10001"
+[4d ago]  committed      →  ai-arbuz-provider-api  "Update license section for clarity"
 ```
 <!-- ACTIVITY:END -->
 
