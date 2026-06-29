@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1h ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
-[2h ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
-[2h ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
-[3h ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
+[2h ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
+[3h ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
+[4h ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
+[4h ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
 [4d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for stats/logs (empty "
 [4d ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
-[4d ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
-[4d ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
-[4d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
-[4d ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
+[5d ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
+[5d ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
+[5d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
+[5d ago]  committed      →  ai-arbuz-provider-api  "fix(settings): import onMounted so Settings page"
 ```
 <!-- ACTIVITY:END -->
 
