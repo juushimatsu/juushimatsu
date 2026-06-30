@@ -69,12 +69,12 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[2h ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
-[16h ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
-[18h ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
-[18h ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
-[19h ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
-[4d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for stats/logs (empty "
+[5h ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
+[20h ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
+[21h ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
+[21h ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
+[22h ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
+[5d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for stats/logs (empty "
 [5d ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
 [5d ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
 [5d ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
