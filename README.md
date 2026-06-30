@@ -69,10 +69,10 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[8h ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
-[22h ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
-[23h ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
-[23h ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
+[10h ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
+[1d ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
+[1d ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
+[1d ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
 [1d ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
 [5d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for stats/logs (empty "
 [5d ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
