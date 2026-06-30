@@ -69,7 +69,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[10h ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
+[11h ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
 [1d ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
 [1d ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
 [1d ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
@@ -78,7 +78,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [5d ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
 [5d ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
 [5d ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
-[5d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
+[6d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
 ```
 <!-- ACTIVITY:END -->
 
