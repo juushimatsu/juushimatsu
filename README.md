@@ -69,10 +69,10 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[6h ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
-[7h ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
-[7h ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
-[8h ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
+[10h ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
+[11h ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
+[12h ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
+[12h ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
 [4d ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for stats/logs (empty "
 [4d ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
 [5d ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
