@@ -73,7 +73,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [6d ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
 [6d ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
 [6d ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
-[6d ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
+[1w ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
 [1w ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for stats/logs (empty "
 [1w ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
 [1w ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
