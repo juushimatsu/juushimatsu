@@ -69,7 +69,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[5d ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
+[6d ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
 [6d ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
 [6d ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
 [6d ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
