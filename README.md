@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[31m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): discover prerelease channels"
-[38m ago]  created branch  →  Oleglog/Olcrtc_manager  "latency-tuning"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "feat(admin): support branch release channels"
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): remove systemd artifacts with delete"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove deleted instances fro"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): discover prerelease channels"
+[1h ago]  created branch  →  Oleglog/Olcrtc_manager  "latency-tuning"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "feat(admin): support branch release channels"
+[3h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): remove systemd artifacts with delete"
+[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove deleted instances fro"
 [4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove Yandex mirror on dele"
-[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): repair subscription mirror QR and co"
-[6h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): decouple subscriptions from main ins"
-[6h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): allow Playwright temporary files"
-[7h ago]  committed      →  juushimatsu  "Move projects to 'Past' section in README"
+[5h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): repair subscription mirror QR and co"
+[7h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): decouple subscriptions from main ins"
+[7h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): allow Playwright temporary files"
+[8h ago]  committed      →  juushimatsu  "Move projects to 'Past' section in README"
 ```
 <!-- ACTIVITY:END -->
 
