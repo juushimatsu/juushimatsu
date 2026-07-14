@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[18m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove Yandex mirror on dele"
-[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): repair subscription mirror QR and co"
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): decouple subscriptions from main ins"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): allow Playwright temporary files"
-[3h ago]  committed      →  juushimatsu  "Move projects to 'Past' section in README"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "feat(admin): automate WB Stream token capture"
-[6h ago]  committed      →  Oleglog/Olcrtc_manager  "Delete .github/workflows/ci.yml"
-[7h ago]  committed      →  Oleglog/Olcrtc_manager  "Delete olcrtc-fix-p3-resubscribe-plan.md"
-[2w ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
-[2w ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
+[52m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): remove systemd artifacts with delete"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove deleted instances fro"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove Yandex mirror on dele"
+[2h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): repair subscription mirror QR and co"
+[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): decouple subscriptions from main ins"
+[4h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): allow Playwright temporary files"
+[5h ago]  committed      →  juushimatsu  "Move projects to 'Past' section in README"
+[5h ago]  committed      →  Oleglog/Olcrtc_manager  "feat(admin): automate WB Stream token capture"
+[8h ago]  committed      →  Oleglog/Olcrtc_manager  "Delete .github/workflows/ci.yml"
+[8h ago]  committed      →  Oleglog/Olcrtc_manager  "Delete olcrtc-fix-p3-resubscribe-plan.md"
 ```
 <!-- ACTIVITY:END -->
 
