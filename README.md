@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[2h ago]  committed      →  Oleglog/Olcrtc_manager  "Delete .github/workflows/ci.yml"
-[3h ago]  committed      →  Oleglog/Olcrtc_manager  "Delete olcrtc-fix-p3-resubscribe-plan.md"
+[26m ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): decouple subscriptions from main ins"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): allow Playwright temporary files"
+[1h ago]  committed      →  juushimatsu  "Move projects to 'Past' section in README"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "feat(admin): automate WB Stream token capture"
+[4h ago]  committed      →  Oleglog/Olcrtc_manager  "Delete .github/workflows/ci.yml"
+[5h ago]  committed      →  Oleglog/Olcrtc_manager  "Delete olcrtc-fix-p3-resubscribe-plan.md"
 [2w ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
 [2w ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
 [2w ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
 [2w ago]  committed      →  ai-arbuz-provider-api  "fix(proxy): set usage before closing pipe in cro"
-[2w ago]  committed      →  ai-arbuz-provider-api  "feat: token-usage fix, key pause/resume+copy, up"
-[2w ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for stats/logs (empty "
-[2w ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
-[2w ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
 ```
 <!-- ACTIVITY:END -->
 
