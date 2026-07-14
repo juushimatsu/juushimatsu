@@ -69,6 +69,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[42m ago]  committed      →  Oleglog/Olcrtc_manager  "Delete .github/workflows/ci.yml"
+[1h ago]  committed      →  Oleglog/Olcrtc_manager  "Delete olcrtc-fix-p3-resubscribe-plan.md"
 [2w ago]  committed      →  instudy-mveu-ui-fix-extension  "feat: kill-switch стилей в попапе, ссылки GitHub"
 [2w ago]  committed      →  ai-arbuz-provider-api  "feat(routing): per-provider model->key mapping +"
 [2w ago]  committed      →  ai-arbuz-provider-api  "fix(usage): estimate tokens when upstream report"
@@ -77,8 +79,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [2w ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for stats/logs (empty "
 [2w ago]  committed      →  juushimatsu  "Update README with new project and activity deta"
 [2w ago]  committed      →  ai-arbuz-provider-api  "fix(ui): repair UTF-8 mojibake in router nav lab"
-[2w ago]  committed      →  ai-arbuz-provider-api  "feat(ui): add Integration page with copy-paste A"
-[2w ago]  committed      →  ai-arbuz-provider-api  "fix: snake_case JSON tags for Provider/IssuedKey"
 ```
 <!-- ACTIVITY:END -->
 
