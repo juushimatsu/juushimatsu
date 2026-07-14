@@ -51,13 +51,13 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 | [Exclave_olcrtc](https://github.com/Oleglog/Exclave_olcrtc) | WebRTC support via olcrtc |
 | [olcrtc_manager](https://github.com/Oleglog/Olcrtc_manager) | olcrtc library fork - help wanted |
 | [instudy-mveu-ui-fix-extension](https://github.com/juushimatsu/instudy-mveu-ui-fix-extension) | dark monochrome theme for disto.mveu.ru |
-| [infinity-room-panel](https://github.com/juushimatsu/infinity-room-panel) | web panel for managing audio bots in Jitsi/Yandex Telemost/WB Stream rooms (MP3→Opus via WebRTC) |
-| [Termux-Proxy-Tunnel-Utility](https://github.com/juushimatsu/Termux-Proxy-Tunnel-Utility) | local proxy (HTTP/SOCKS5) on Android + reverse SSH tunnel to remote machine |
 
 **Past**
 
 | repo | description |
 |------|-------------|
+| [infinity-room-panel](https://github.com/juushimatsu/infinity-room-panel) | web panel for managing audio bots in Jitsi/Yandex Telemost/WB Stream rooms (MP3→Opus via WebRTC) |
+| [Termux-Proxy-Tunnel-Utility](https://github.com/juushimatsu/Termux-Proxy-Tunnel-Utility) | local proxy (HTTP/SOCKS5) on Android + reverse SSH tunnel to remote machine |
 | [wireguard-turn-android-vpn-bypass](https://github.com/juushimatsu/wireguard-turn-android-vpn-bypass) | Android GUI for WireGuard with TURN - per-app VPN bypass *(archived)* |
 | [instudy-mveu-ui-fix-tampermonkey](https://github.com/juushimatsu/instudy-mveu-ui-fix-tampermonkey) | full UI overhaul for disto.mveu.ru — 5 color schemes |
 | [Upgrading-Windows-rights](https://github.com/juushimatsu/Upgrading-Windows-rights-or-how-to-play-games-on-a-school-PC) | guide: privilege escalation on locked school PCs |
