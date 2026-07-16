@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[11m ago]  committed      →  olcrtc-panel-lite  "Improve path validation, CI workflow, and instal"
-[20m ago]  committed      →  olcrtc-panel-lite  "Rename VERSION to RELEASE_VERSION"
-[35m ago]  committed      →  olcrtc-panel-lite  "Fix shell scripts: ShellCheck directives and arr"
-[48m ago]  committed      →  olcrtc-panel-lite  "refactor: update actions, fix Go lint issues, im"
-[1h ago]  committed      →  olcrtc-panel-lite  "Enhance installer with GitHub API-based asset di"
-[1h ago]  committed      →  olcrtc-panel-lite  "Migrate to juushimatsu, adopt MIT license"
-[1h ago]  created branch  →  olcrtc-panel-lite  "master"
-[1h ago]  committed      →  olcrtc-panel-lite  "Initial commit: olcrtc-panel-lite"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): discover prerelease channels"
-[1d ago]  created branch  →  Oleglog/Olcrtc_manager  "latency-tuning"
+[43m ago]  committed      →  olcrtc-panel-lite  "fix uninstall"
+[53m ago]  committed      →  olcrtc-panel-lite  "installer: prefer 8443, choose free HTTPS port"
+[1h ago]  committed      →  olcrtc-panel-lite  "Improve path validation, CI workflow, and instal"
+[1h ago]  committed      →  olcrtc-panel-lite  "Rename VERSION to RELEASE_VERSION"
+[1h ago]  committed      →  olcrtc-panel-lite  "Fix shell scripts: ShellCheck directives and arr"
+[1h ago]  committed      →  olcrtc-panel-lite  "refactor: update actions, fix Go lint issues, im"
+[2h ago]  committed      →  olcrtc-panel-lite  "Enhance installer with GitHub API-based asset di"
+[2h ago]  committed      →  olcrtc-panel-lite  "Migrate to juushimatsu, adopt MIT license"
+[3h ago]  created branch  →  olcrtc-panel-lite  "master"
+[3h ago]  committed      →  olcrtc-panel-lite  "Initial commit: olcrtc-panel-lite"
 ```
 <!-- ACTIVITY:END -->
 
