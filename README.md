@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[2m ago]  created branch  →  olcrtc-panel-lite  "master"
+[2m ago]  committed      →  olcrtc-panel-lite  "Initial commit: olcrtc-panel-lite"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): discover prerelease channels"
 [1d ago]  created branch  →  Oleglog/Olcrtc_manager  "latency-tuning"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "feat(admin): support branch release channels"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): remove systemd artifacts with delete"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove deleted instances fro"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove Yandex mirror on dele"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): repair subscription mirror QR and co"
+[2d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove Yandex mirror on dele"
+[2d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): repair subscription mirror QR and co"
 [2d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): decouple subscriptions from main ins"
-[2d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): allow Playwright temporary files"
-[2d ago]  committed      →  juushimatsu  "Move projects to 'Past' section in README"
 ```
 <!-- ACTIVITY:END -->
 
