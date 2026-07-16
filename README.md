@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[42m ago]  committed      →  olcrtc-panel-lite  "Enhance installer with GitHub API-based asset di"
-[53m ago]  committed      →  olcrtc-panel-lite  "Migrate to juushimatsu, adopt MIT license"
+[11m ago]  committed      →  olcrtc-panel-lite  "Improve path validation, CI workflow, and instal"
+[20m ago]  committed      →  olcrtc-panel-lite  "Rename VERSION to RELEASE_VERSION"
+[35m ago]  committed      →  olcrtc-panel-lite  "Fix shell scripts: ShellCheck directives and arr"
+[48m ago]  committed      →  olcrtc-panel-lite  "refactor: update actions, fix Go lint issues, im"
+[1h ago]  committed      →  olcrtc-panel-lite  "Enhance installer with GitHub API-based asset di"
+[1h ago]  committed      →  olcrtc-panel-lite  "Migrate to juushimatsu, adopt MIT license"
 [1h ago]  created branch  →  olcrtc-panel-lite  "master"
 [1h ago]  committed      →  olcrtc-panel-lite  "Initial commit: olcrtc-panel-lite"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): discover prerelease channels"
 [1d ago]  created branch  →  Oleglog/Olcrtc_manager  "latency-tuning"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "feat(admin): support branch release channels"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): remove systemd artifacts with delete"
-[2d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove deleted instances fro"
-[2d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove Yandex mirror on dele"
 ```
 <!-- ACTIVITY:END -->
 
