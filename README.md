@@ -76,9 +76,9 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove deleted instances fro"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(subscriptions): remove Yandex mirror on dele"
 [1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): repair subscription mirror QR and co"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): decouple subscriptions from main ins"
-[1d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): allow Playwright temporary files"
-[1d ago]  committed      →  juushimatsu  "Move projects to 'Past' section in README"
+[2d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): decouple subscriptions from main ins"
+[2d ago]  committed      →  Oleglog/Olcrtc_manager  "fix(admin): allow Playwright temporary files"
+[2d ago]  committed      →  juushimatsu  "Move projects to 'Past' section in README"
 ```
 <!-- ACTIVITY:END -->
 
