@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[10h ago]  committed      →  olcrtc-panel-lite  "беву5нвенгпк6г"
-[11h ago]  committed      →  olcrtc-panel-lite  "ыы че написать"
-[11h ago]  committed      →  olcrtc-panel-lite  "fix instance configuration permissions"
-[12h ago]  committed      →  olcrtc-panel-lite  "Improve startup robustness, permissions, and WB "
-[14h ago]  committed      →  olcrtc-panel-lite  "fix uninstall"
-[14h ago]  committed      →  olcrtc-panel-lite  "installer: prefer 8443, choose free HTTPS port"
-[14h ago]  committed      →  olcrtc-panel-lite  "Improve path validation, CI workflow, and instal"
-[14h ago]  committed      →  olcrtc-panel-lite  "Rename VERSION to RELEASE_VERSION"
-[14h ago]  committed      →  olcrtc-panel-lite  "Fix shell scripts: ShellCheck directives and arr"
-[15h ago]  committed      →  olcrtc-panel-lite  "refactor: update actions, fix Go lint issues, im"
+[1h ago]  committed      →  olcrtc-panel-lite  "Relocate WB worker to runtime directory and repa"
+[12h ago]  committed      →  olcrtc-panel-lite  "беву5нвенгпк6г"
+[13h ago]  committed      →  olcrtc-panel-lite  "ыы че написать"
+[13h ago]  committed      →  olcrtc-panel-lite  "fix instance configuration permissions"
+[14h ago]  committed      →  olcrtc-panel-lite  "Improve startup robustness, permissions, and WB "
+[15h ago]  committed      →  olcrtc-panel-lite  "fix uninstall"
+[16h ago]  committed      →  olcrtc-panel-lite  "installer: prefer 8443, choose free HTTPS port"
+[16h ago]  committed      →  olcrtc-panel-lite  "Improve path validation, CI workflow, and instal"
+[16h ago]  committed      →  olcrtc-panel-lite  "Rename VERSION to RELEASE_VERSION"
+[16h ago]  committed      →  olcrtc-panel-lite  "Fix shell scripts: ShellCheck directives and arr"
 ```
 <!-- ACTIVITY:END -->
 
