@@ -76,9 +76,9 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1d ago]  committed      →  olcrtc-panel-lite  "Improve startup robustness, permissions, and WB "
 [1d ago]  committed      →  olcrtc-panel-lite  "fix uninstall"
 [1d ago]  committed      →  olcrtc-panel-lite  "installer: prefer 8443, choose free HTTPS port"
-[1d ago]  committed      →  olcrtc-panel-lite  "Improve path validation, CI workflow, and instal"
-[1d ago]  committed      →  olcrtc-panel-lite  "Rename VERSION to RELEASE_VERSION"
-[1d ago]  committed      →  olcrtc-panel-lite  "Fix shell scripts: ShellCheck directives and arr"
+[2d ago]  committed      →  olcrtc-panel-lite  "Improve path validation, CI workflow, and instal"
+[2d ago]  committed      →  olcrtc-panel-lite  "Rename VERSION to RELEASE_VERSION"
+[2d ago]  committed      →  olcrtc-panel-lite  "Fix shell scripts: ShellCheck directives and arr"
 ```
 <!-- ACTIVITY:END -->
 
