@@ -69,7 +69,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[2d ago]  committed      →  olcrtc-panel-lite  "Relocate WB worker to runtime directory and repa"
+[56m ago]  committed      →  olcrtc-panel-lite  "Add OLCRTC Client QR/subscription support"
+[3d ago]  committed      →  olcrtc-panel-lite  "Relocate WB worker to runtime directory and repa"
 [3d ago]  committed      →  olcrtc-panel-lite  "беву5нвенгпк6г"
 [3d ago]  committed      →  olcrtc-panel-lite  "ыы че написать"
 [3d ago]  committed      →  olcrtc-panel-lite  "fix instance configuration permissions"
@@ -78,7 +79,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [3d ago]  committed      →  olcrtc-panel-lite  "installer: prefer 8443, choose free HTTPS port"
 [3d ago]  committed      →  olcrtc-panel-lite  "Improve path validation, CI workflow, and instal"
 [3d ago]  committed      →  olcrtc-panel-lite  "Rename VERSION to RELEASE_VERSION"
-[3d ago]  committed      →  olcrtc-panel-lite  "Fix shell scripts: ShellCheck directives and arr"
 ```
 <!-- ACTIVITY:END -->
 
