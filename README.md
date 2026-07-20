@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[56m ago]  committed      →  olcrtc-panel-lite  "Add OLCRTC Client QR/subscription support"
+[22m ago]  committed      →  olcrtc-panel-lite  "Fix WB runtime directory ownership"
+[38m ago]  committed      →  olcrtc-panel-lite  "Move WB runtime state to ephemeral storage and a"
+[1h ago]  committed      →  olcrtc-panel-lite  "Separate E2E tests in daily workflow"
+[2h ago]  committed      →  olcrtc-panel-lite  "Fix worker header lookup and support log timesta"
+[3h ago]  committed      →  olcrtc-panel-lite  "Add OLCRTC Client QR/subscription support"
 [3d ago]  committed      →  olcrtc-panel-lite  "Relocate WB worker to runtime directory and repa"
 [3d ago]  committed      →  olcrtc-panel-lite  "беву5нвенгпк6г"
 [3d ago]  committed      →  olcrtc-panel-lite  "ыы че написать"
 [3d ago]  committed      →  olcrtc-panel-lite  "fix instance configuration permissions"
 [3d ago]  committed      →  olcrtc-panel-lite  "Improve startup robustness, permissions, and WB "
-[3d ago]  committed      →  olcrtc-panel-lite  "fix uninstall"
-[3d ago]  committed      →  olcrtc-panel-lite  "installer: prefer 8443, choose free HTTPS port"
-[3d ago]  committed      →  olcrtc-panel-lite  "Improve path validation, CI workflow, and instal"
-[3d ago]  committed      →  olcrtc-panel-lite  "Rename VERSION to RELEASE_VERSION"
 ```
 <!-- ACTIVITY:END -->
 
