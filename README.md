@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[48m ago]  committed      →  Oleglog/Olcrtc_client  "fix(release): rebuild and verify mobilecore AAR"
-[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): resolve instrumentation failures and sp"
-[19h ago]  committed      →  Oleglog/Olcrtc_client  "fix(build): resolve native dependencies and API "
-[19h ago]  committed      →  Oleglog/Olcrtc_client  "feat(olcrtc): add current and legacy core modes"
-[23h ago]  committed      →  olcrtc-panel-lite  "Ignore olcrtc-client-core-upgrade documentation"
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(olcrtc): preserve wbstream auth failures"
+[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix(release): rebuild and verify mobilecore AAR"
+[20h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): resolve instrumentation failures and sp"
+[20h ago]  committed      →  Oleglog/Olcrtc_client  "fix(build): resolve native dependencies and API "
+[21h ago]  committed      →  Oleglog/Olcrtc_client  "feat(olcrtc): add current and legacy core modes"
+[1d ago]  committed      →  olcrtc-panel-lite  "Ignore olcrtc-client-core-upgrade documentation"
 [2d ago]  committed      →  olcrtc-panel-lite  "Support dual OLCRTC Client/OLCBOX subscriptions"
 [2d ago]  committed      →  olcrtc-panel-lite  "Expose WB create token after successful session "
 [2d ago]  committed      →  olcrtc-panel-lite  "Fix WB runtime directory ownership"
 [2d ago]  committed      →  olcrtc-panel-lite  "Move WB runtime state to ephemeral storage and a"
-[2d ago]  committed      →  olcrtc-panel-lite  "Separate E2E tests in daily workflow"
 ```
 <!-- ACTIVITY:END -->
 
