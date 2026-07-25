@@ -70,7 +70,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 <!-- ACTIVITY:START -->
 ```
 [1d ago]  committed      →  Oleglog/Olcrtc_client  "fix(olcrtc): preserve wbstream auth failures"
-[1d ago]  committed      →  Oleglog/Olcrtc_client  "fix(release): rebuild and verify mobilecore AAR"
+[2d ago]  committed      →  Oleglog/Olcrtc_client  "fix(release): rebuild and verify mobilecore AAR"
 [2d ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): resolve instrumentation failures and sp"
 [2d ago]  committed      →  Oleglog/Olcrtc_client  "fix(build): resolve native dependencies and API "
 [2d ago]  committed      →  Oleglog/Olcrtc_client  "feat(olcrtc): add current and legacy core modes"
