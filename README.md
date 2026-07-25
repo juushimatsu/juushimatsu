@@ -76,7 +76,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [2d ago]  committed      →  Oleglog/Olcrtc_client  "feat(olcrtc): add current and legacy core modes"
 [3d ago]  committed      →  olcrtc-panel-lite  "Ignore olcrtc-client-core-upgrade documentation"
 [4d ago]  committed      →  olcrtc-panel-lite  "Support dual OLCRTC Client/OLCBOX subscriptions"
-[4d ago]  committed      →  olcrtc-panel-lite  "Expose WB create token after successful session "
+[5d ago]  committed      →  olcrtc-panel-lite  "Expose WB create token after successful session "
 [5d ago]  committed      →  olcrtc-panel-lite  "Fix WB runtime directory ownership"
 [5d ago]  committed      →  olcrtc-panel-lite  "Move WB runtime state to ephemeral storage and a"
 ```
