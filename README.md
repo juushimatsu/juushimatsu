@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[12h ago]  committed      →  olcrtc-panel-lite  "Keep a= parameter with empty value when omitting"
-[12h ago]  committed      →  olcrtc-panel-lite  "Fix ineffassign lint issue in validateStandardTr"
-[13h ago]  committed      →  olcrtc-panel-lite  "Fix gofmt formatting in model.go"
-[13h ago]  committed      →  olcrtc-panel-lite  "Add omit_client_auth_token flag for guest access"
+[5m ago]  committed      →  olcrtc-panel-lite  "Improve entry form UX and add version fallback"
+[26m ago]  committed      →  olcrtc-panel-lite  "Release 0.2.0: compact UI, DNS defaults, and QR "
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.3.9"
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(vpn): reduce tunnel health probe interval an"
+[15h ago]  committed      →  olcrtc-panel-lite  "Keep a= parameter with empty value when omitting"
+[15h ago]  committed      →  olcrtc-panel-lite  "Fix ineffassign lint issue in validateStandardTr"
+[15h ago]  committed      →  olcrtc-panel-lite  "Fix gofmt formatting in model.go"
+[15h ago]  committed      →  olcrtc-panel-lite  "Add omit_client_auth_token flag for guest access"
 [2d ago]  committed      →  Oleglog/Olcrtc_client  "fix(olcrtc): preserve wbstream auth failures"
 [2d ago]  committed      →  Oleglog/Olcrtc_client  "fix(release): rebuild and verify mobilecore AAR"
-[3d ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): resolve instrumentation failures and sp"
-[3d ago]  committed      →  Oleglog/Olcrtc_client  "fix(build): resolve native dependencies and API "
-[3d ago]  committed      →  Oleglog/Olcrtc_client  "feat(olcrtc): add current and legacy core modes"
-[3d ago]  committed      →  olcrtc-panel-lite  "Ignore olcrtc-client-core-upgrade documentation"
 ```
 <!-- ACTIVITY:END -->
 
