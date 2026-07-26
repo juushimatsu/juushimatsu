@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[5m ago]  committed      →  olcrtc-panel-lite  "Improve entry form UX and add version fallback"
-[26m ago]  committed      →  olcrtc-panel-lite  "Release 0.2.0: compact UI, DNS defaults, and QR "
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.3.9"
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(vpn): reduce tunnel health probe interval an"
-[15h ago]  committed      →  olcrtc-panel-lite  "Keep a= parameter with empty value when omitting"
-[15h ago]  committed      →  olcrtc-panel-lite  "Fix ineffassign lint issue in validateStandardTr"
-[15h ago]  committed      →  olcrtc-panel-lite  "Fix gofmt formatting in model.go"
-[15h ago]  committed      →  olcrtc-panel-lite  "Add omit_client_auth_token flag for guest access"
-[2d ago]  committed      →  Oleglog/Olcrtc_client  "fix(olcrtc): preserve wbstream auth failures"
-[2d ago]  committed      →  Oleglog/Olcrtc_client  "fix(release): rebuild and verify mobilecore AAR"
+[26m ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.4.0"
+[27m ago]  committed      →  Oleglog/Olcrtc_client  "feat(ux): download progress bar and parallel pro"
+[1h ago]  committed      →  olcrtc-panel-lite  "Update daily-upstream.yml"
+[1h ago]  committed      →  olcrtc-panel-lite  "Bump panel version to 0.2.0"
+[1h ago]  committed      →  olcrtc-panel-lite  "Clarify URI format hint in entry modal"
+[1h ago]  committed      →  olcrtc-panel-lite  "Improve entry form UX and add version fallback"
+[1h ago]  committed      →  olcrtc-panel-lite  "Release 0.2.0: compact UI, DNS defaults, and QR "
+[2h ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.3.9"
+[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix(vpn): reduce tunnel health probe interval an"
+[16h ago]  committed      →  olcrtc-panel-lite  "Keep a= parameter with empty value when omitting"
 ```
 <!-- ACTIVITY:END -->
 
