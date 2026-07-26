@@ -69,16 +69,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix(updater): normalize cert SHA256 format and a"
-[2h ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.4.0"
-[3h ago]  committed      →  Oleglog/Olcrtc_client  "feat(ux): download progress bar and parallel pro"
-[3h ago]  committed      →  olcrtc-panel-lite  "Update daily-upstream.yml"
-[3h ago]  committed      →  olcrtc-panel-lite  "Bump panel version to 0.2.0"
-[3h ago]  committed      →  olcrtc-panel-lite  "Clarify URI format hint in entry modal"
-[4h ago]  committed      →  olcrtc-panel-lite  "Improve entry form UX and add version fallback"
-[4h ago]  committed      →  olcrtc-panel-lite  "Release 0.2.0: compact UI, DNS defaults, and QR "
-[5h ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.3.9"
-[5h ago]  committed      →  Oleglog/Olcrtc_client  "fix(vpn): reduce tunnel health probe interval an"
+[3h ago]  committed      →  Oleglog/Olcrtc_client  "fix(updater): normalize cert SHA256 format and a"
+[4h ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.4.0"
+[4h ago]  committed      →  Oleglog/Olcrtc_client  "feat(ux): download progress bar and parallel pro"
+[5h ago]  committed      →  olcrtc-panel-lite  "Update daily-upstream.yml"
+[5h ago]  committed      →  olcrtc-panel-lite  "Bump panel version to 0.2.0"
+[5h ago]  committed      →  olcrtc-panel-lite  "Clarify URI format hint in entry modal"
+[5h ago]  committed      →  olcrtc-panel-lite  "Improve entry form UX and add version fallback"
+[5h ago]  committed      →  olcrtc-panel-lite  "Release 0.2.0: compact UI, DNS defaults, and QR "
+[6h ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.3.9"
+[6h ago]  committed      →  Oleglog/Olcrtc_client  "fix(vpn): reduce tunnel health probe interval an"
 ```
 <!-- ACTIVITY:END -->
 
