@@ -48,8 +48,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 | repo | description |
 |------|-------------|
 | [ai-arbuz-provider-api](https://github.com/juushimatsu/ai-arbuz-provider-api) | ai key api router |
-| [olcrtc-panel-lite](https://github.com/Oleglog/Exclave_olcrtc) | Self-hosted HTTPS panel for managing olcRTC (VPN) instances on Ubuntu/Debian |
-| [Olcrtc_client](https://github.com/Oleglog/Olcrtc_manager) | Android VPN client for olcRTC and standard proxy profiles (VLESS/VMess/Trojan) |
+| [olcrtc-panel-lite](https://github.com/juushimatsu/olcrtc-panel-lite) | Self-hosted HTTPS panel for managing olcRTC (VPN) instances on Ubuntu/Debian |
+| [Olcrtc_client](https://github.com/Oleglog/Olcrtc_client) | Android VPN client for olcRTC and standard proxy profiles (VLESS/VMess/Trojan) |
 | [olcrtc_manager](https://github.com/Oleglog/Olcrtc_manager) | olcrtc library fork - help wanted |
 | [instudy-mveu-ui-fix-extension](https://github.com/juushimatsu/instudy-mveu-ui-fix-extension) | dark monochrome theme for disto.mveu.ru |
 
