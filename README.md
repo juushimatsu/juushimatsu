@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[17h ago]  committed      →  Oleglog/Olcrtc_client  "fix(updater): normalize cert SHA256 format and a"
-[18h ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.4.0"
-[18h ago]  committed      →  Oleglog/Olcrtc_client  "feat(ux): download progress bar and parallel pro"
-[19h ago]  committed      →  olcrtc-panel-lite  "Update daily-upstream.yml"
-[19h ago]  committed      →  olcrtc-panel-lite  "Bump panel version to 0.2.0"
-[19h ago]  committed      →  olcrtc-panel-lite  "Clarify URI format hint in entry modal"
-[19h ago]  committed      →  olcrtc-panel-lite  "Improve entry form UX and add version fallback"
-[19h ago]  committed      →  olcrtc-panel-lite  "Release 0.2.0: compact UI, DNS defaults, and QR "
-[20h ago]  committed      →  Oleglog/Olcrtc_client  "chore(release): bump version to 1.3.9"
-[20h ago]  committed      →  Oleglog/Olcrtc_client  "fix(vpn): reduce tunnel health probe interval an"
+[32m ago]  committed      →  juushimatsu  "Update repository links in README.md"
+[1h ago]  PR merged      →  template  "untitled"
+[1h ago]  committed      →  template  "Merge pull request #2 from juushimatsu/juushimat"
+[1h ago]  PR opened      →  template  "untitled"
+[1h ago]  created branch  →  template  "juushimatsu-patch-2"
+[1h ago]  committed      →  template  "Remove unused import of User model"
+[1h ago]  PR merged      →  template  "untitled"
+[1h ago]  committed      →  template  "Merge pull request #1 from juushimatsu/juushimat"
+[1h ago]  PR opened      →  template  "untitled"
+[1h ago]  created branch  →  template  "juushimatsu-patch-1"
 ```
 <!-- ACTIVITY:END -->
 
