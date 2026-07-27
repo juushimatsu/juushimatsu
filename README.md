@@ -48,7 +48,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 | repo | description |
 |------|-------------|
 | [ai-arbuz-provider-api](https://github.com/juushimatsu/ai-arbuz-provider-api) | ai key api router |
-| [Exclave_olcrtc](https://github.com/Oleglog/Exclave_olcrtc) | WebRTC support via olcrtc |
+| [olcrtc-panel-lite](https://github.com/Oleglog/Exclave_olcrtc) | Self-hosted HTTPS panel for managing olcRTC (VPN) instances on Ubuntu/Debian |
+| [Olcrtc_client](https://github.com/Oleglog/Olcrtc_manager) | Android VPN client for olcRTC and standard proxy profiles (VLESS/VMess/Trojan) |
 | [olcrtc_manager](https://github.com/Oleglog/Olcrtc_manager) | olcrtc library fork - help wanted |
 | [instudy-mveu-ui-fix-extension](https://github.com/juushimatsu/instudy-mveu-ui-fix-extension) | dark monochrome theme for disto.mveu.ru |
 
@@ -62,6 +63,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 | [instudy-mveu-ui-fix-tampermonkey](https://github.com/juushimatsu/instudy-mveu-ui-fix-tampermonkey) | full UI overhaul for disto.mveu.ru — 5 color schemes |
 | [Upgrading-Windows-rights](https://github.com/juushimatsu/Upgrading-Windows-rights-or-how-to-play-games-on-a-school-PC) | guide: privilege escalation on locked school PCs |
 | [Duplicating-Sound-Linux→Windows](https://github.com/juushimatsu/Duplicating-Sound-from-Linux-to-Windows) | stream audio from Linux mini-PC to Windows via RTP/VLC |
+| [Exclave_olcrtc](https://github.com/Oleglog/Exclave_olcrtc) | WebRTC support via olcrtc |
 
 <br>
 
