@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[21h ago]  committed      →  olcrtc-panel-lite  "Enhance README with project description"
-[22h ago]  committed      →  juushimatsu  "Update repository links in README.md"
-[23h ago]  PR merged      →  template  "untitled"
-[23h ago]  committed      →  template  "Merge pull request #2 from juushimatsu/juushimat"
-[23h ago]  PR opened      →  template  "untitled"
-[23h ago]  created branch  →  template  "juushimatsu-patch-2"
-[23h ago]  committed      →  template  "Remove unused import of User model"
-[23h ago]  PR merged      →  template  "untitled"
-[23h ago]  committed      →  template  "Merge pull request #1 from juushimatsu/juushimat"
-[23h ago]  PR opened      →  template  "untitled"
+[1d ago]  committed      →  olcrtc-panel-lite  "Enhance README with project description"
+[1d ago]  committed      →  juushimatsu  "Update repository links in README.md"
+[1d ago]  PR merged      →  template  "untitled"
+[1d ago]  committed      →  template  "Merge pull request #2 from juushimatsu/juushimat"
+[1d ago]  PR opened      →  template  "untitled"
+[1d ago]  created branch  →  template  "juushimatsu-patch-2"
+[1d ago]  committed      →  template  "Remove unused import of User model"
+[1d ago]  PR merged      →  template  "untitled"
+[1d ago]  committed      →  template  "Merge pull request #1 from juushimatsu/juushimat"
+[1d ago]  PR opened      →  template  "untitled"
 ```
 <!-- ACTIVITY:END -->
 
