@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[41m ago]  committed      →  olcrtc-panel-lite  "Fix subscription revision monotonicity"
-[4h ago]  committed      →  olcrtc-panel-lite  "feat(wb): add profile reset button to clear Chro"
-[7h ago]  committed      →  olcrtc-panel-lite  "fix: uptime wall clock, subscription 503, auth t"
-[9h ago]  committed      →  olcrtc-panel-lite  "Revert "fix(subscription): include Yandex mirror"
-[9h ago]  committed      →  olcrtc-panel-lite  "fix(subscription): include Yandex mirror fields "
+[58m ago]  committed      →  olcrtc-panel-lite  "Omit WB auth token from client URIs"
+[1h ago]  committed      →  olcrtc-panel-lite  "Fix subscription revision monotonicity"
+[6h ago]  committed      →  olcrtc-panel-lite  "feat(wb): add profile reset button to clear Chro"
+[8h ago]  committed      →  olcrtc-panel-lite  "fix: uptime wall clock, subscription 503, auth t"
+[10h ago]  committed      →  olcrtc-panel-lite  "Revert "fix(subscription): include Yandex mirror"
+[10h ago]  committed      →  olcrtc-panel-lite  "fix(subscription): include Yandex mirror fields "
 [2d ago]  committed      →  olcrtc-panel-lite  "Enhance README with project description"
 [2d ago]  committed      →  juushimatsu  "Update repository links in README.md"
 [2d ago]  PR merged      →  template  "untitled"
 [2d ago]  committed      →  template  "Merge pull request #2 from juushimatsu/juushimat"
-[2d ago]  PR opened      →  template  "untitled"
 ```
 <!-- ACTIVITY:END -->
 
