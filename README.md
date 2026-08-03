@@ -79,8 +79,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [4d ago]  committed      →  olcrtc-panel-lite  "Revert "fix(subscription): include Yandex mirror"
 [4d ago]  committed      →  olcrtc-panel-lite  "fix(subscription): include Yandex mirror fields "
 [6d ago]  committed      →  olcrtc-panel-lite  "Enhance README with project description"
-[6d ago]  committed      →  juushimatsu  "Update repository links in README.md"
-[6d ago]  PR merged      →  template  "untitled"
+[1w ago]  committed      →  juushimatsu  "Update repository links in README.md"
+[1w ago]  PR merged      →  template  "untitled"
 ```
 <!-- ACTIVITY:END -->
 
