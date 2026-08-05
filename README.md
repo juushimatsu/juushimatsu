@@ -71,8 +71,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[21h ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
-[22h ago]  committed      →  olcrtc-panel-lite  "Add repository cover image"
+[1d ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
+[1d ago]  committed      →  olcrtc-panel-lite  "Add repository cover image"
 [1d ago]  committed      →  olcrtc-panel-lite  "Use Google DNS by default; add DNS presets"
 [1d ago]  committed      →  olcrtc-panel-lite  "Add update notice, network toggle, and mirror sy"
 [5d ago]  committed      →  olcrtc-panel-lite  "Normalize Telemost IDs and mark newest release"
