@@ -71,6 +71,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[37m ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
 [6d ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
 [6d ago]  committed      →  olcrtc-panel-lite  "Add repository cover image"
 [6d ago]  committed      →  olcrtc-panel-lite  "Use Google DNS by default; add DNS presets"
@@ -80,7 +81,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1w ago]  committed      →  olcrtc-panel-lite  "Fix subscription revision monotonicity"
 [1w ago]  committed      →  olcrtc-panel-lite  "feat(wb): add profile reset button to clear Chro"
 [1w ago]  committed      →  olcrtc-panel-lite  "fix: uptime wall clock, subscription 503, auth t"
-[1w ago]  committed      →  olcrtc-panel-lite  "Revert "fix(subscription): include Yandex mirror"
 ```
 <!-- ACTIVITY:END -->
 
