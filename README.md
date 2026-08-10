@@ -73,8 +73,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 ```
 [5d ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
 [5d ago]  committed      →  olcrtc-panel-lite  "Add repository cover image"
-[5d ago]  committed      →  olcrtc-panel-lite  "Use Google DNS by default; add DNS presets"
-[5d ago]  committed      →  olcrtc-panel-lite  "Add update notice, network toggle, and mirror sy"
+[6d ago]  committed      →  olcrtc-panel-lite  "Use Google DNS by default; add DNS presets"
+[6d ago]  committed      →  olcrtc-panel-lite  "Add update notice, network toggle, and mirror sy"
 [1w ago]  committed      →  olcrtc-panel-lite  "Normalize Telemost IDs and mark newest release"
 [1w ago]  committed      →  olcrtc-panel-lite  "Omit WB auth token from client URIs"
 [1w ago]  committed      →  olcrtc-panel-lite  "Fix subscription revision monotonicity"
