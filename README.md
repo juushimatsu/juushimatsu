@@ -77,7 +77,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1w ago]  committed      →  olcrtc-panel-lite  "Add repository cover image"
 [1w ago]  committed      →  olcrtc-panel-lite  "Use Google DNS by default; add DNS presets"
 [1w ago]  committed      →  olcrtc-panel-lite  "Add update notice, network toggle, and mirror sy"
-[1w ago]  committed      →  olcrtc-panel-lite  "Normalize Telemost IDs and mark newest release"
+[2w ago]  committed      →  olcrtc-panel-lite  "Normalize Telemost IDs and mark newest release"
 [2w ago]  committed      →  olcrtc-panel-lite  "Omit WB auth token from client URIs"
 [2w ago]  committed      →  olcrtc-panel-lite  "Fix subscription revision monotonicity"
 [2w ago]  committed      →  olcrtc-panel-lite  "feat(wb): add profile reset button to clear Chro"
