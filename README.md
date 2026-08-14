@@ -71,6 +71,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[34m ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
 [3d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
 [3d ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
 [1w ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
@@ -80,7 +81,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [2w ago]  committed      →  olcrtc-panel-lite  "Normalize Telemost IDs and mark newest release"
 [2w ago]  committed      →  olcrtc-panel-lite  "Omit WB auth token from client URIs"
 [2w ago]  committed      →  olcrtc-panel-lite  "Fix subscription revision monotonicity"
-[2w ago]  committed      →  olcrtc-panel-lite  "feat(wb): add profile reset button to clear Chro"
 ```
 <!-- ACTIVITY:END -->
 
