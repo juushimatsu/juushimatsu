@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "chore: bump version to v1.4.12"
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(olcrtc): update to latest stable with all ha"
-[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix(scripts): update expected olcrtc version in "
-[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix(mobilecore): migrate to olcrtc handshake v3 "
-[2h ago]  committed      →  Oleglog/Olcrtc_client  "release: v1.4.11 — fix VP8 channel handshake v3 "
-[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix(vp8channel): restore handshake v3 and update"
-[3h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
-[3h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
-[3h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
-[3h ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
+[5h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
+[6h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
+[6h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
+[6h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
+[8h ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
+[3d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
+[3d ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
+[1w ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
+[1w ago]  committed      →  olcrtc-panel-lite  "Add repository cover image"
+[1w ago]  committed      →  olcrtc-panel-lite  "Use Google DNS by default; add DNS presets"
 ```
 <!-- ACTIVITY:END -->
 
