@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1m ago]  committed      →  Oleglog/Olcrtc_client  "fix(legacyvp8channel): update to new olcrtc API "
-[10m ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct pseudo-version timestamp to UTC"
-[13m ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct olcrtc dependency to upstream hands"
-[15m ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
-[23m ago]  committed      →  Oleglog/Olcrtc_client  "fix(olcrtc): update core to handshake v3 and aut"
-[1h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
-[1h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
-[1h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
-[3h ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
-[3d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
+[34m ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
+[46m ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "revert: rollback olcrtc to stable v0.0.0-2026081"
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(legacyvp8channel): update to new olcrtc API "
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct pseudo-version timestamp to UTC"
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct olcrtc dependency to upstream hands"
+[1h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(olcrtc): update core to handshake v3 and aut"
 ```
 <!-- ACTIVITY:END -->
 
