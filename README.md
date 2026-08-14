@@ -71,13 +71,13 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[9h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
-[10h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
-[10h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
-[11h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
-[12h ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
+[10h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
+[11h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
+[11h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
+[12h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
+[13h ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
 [3d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
-[3d ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
+[4d ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
 [1w ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
 [1w ago]  committed      →  olcrtc-panel-lite  "Add repository cover image"
 [1w ago]  committed      →  olcrtc-panel-lite  "Use Google DNS by default; add DNS presets"
