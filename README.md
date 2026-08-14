@@ -71,7 +71,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[34m ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
+[1h ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
 [3d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
 [3d ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
 [1w ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
