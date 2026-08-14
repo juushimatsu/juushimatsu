@@ -71,11 +71,11 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[8h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
-[9h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
+[9h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
+[10h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
 [10h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
-[10h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
-[11h ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
+[11h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
+[12h ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
 [3d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
 [3d ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
 [1w ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
