@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[34m ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
-[46m ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "revert: rollback olcrtc to stable v0.0.0-2026081"
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(legacyvp8channel): update to new olcrtc API "
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct pseudo-version timestamp to UTC"
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct olcrtc dependency to upstream hands"
-[1h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
-[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(olcrtc): update core to handshake v3 and aut"
+[18m ago]  committed      →  Oleglog/Olcrtc_client  "chore: bump version to v1.4.12"
+[19m ago]  committed      →  Oleglog/Olcrtc_client  "fix(olcrtc): update to latest stable with all ha"
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(scripts): update expected olcrtc version in "
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(mobilecore): migrate to olcrtc handshake v3 "
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "release: v1.4.11 — fix VP8 channel handshake v3 "
+[1h ago]  committed      →  Oleglog/Olcrtc_client  "fix(vp8channel): restore handshake v3 and update"
+[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
+[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
+[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
+[2h ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
 ```
 <!-- ACTIVITY:END -->
 
