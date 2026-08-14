@@ -71,7 +71,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[2d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
+[3d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
 [3d ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
 [1w ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
 [1w ago]  committed      →  olcrtc-panel-lite  "Add repository cover image"
