@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[3h ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
-[3h ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
-[17h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
-[17h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
-[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
-[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
-[18h ago]  committed      →  Oleglog/Olcrtc_client  "revert: rollback olcrtc to stable v0.0.0-2026081"
-[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix(legacyvp8channel): update to new olcrtc API "
-[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct pseudo-version timestamp to UTC"
-[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct olcrtc dependency to upstream hands"
+[45m ago]  committed      →  olcrtc-panel-lite  "Fix handshake protocol incompatibility (v2/v3)"
+[4h ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
+[4h ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
+[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
+[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
+[19h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
+[19h ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
+[19h ago]  committed      →  Oleglog/Olcrtc_client  "revert: rollback olcrtc to stable v0.0.0-2026081"
+[19h ago]  committed      →  Oleglog/Olcrtc_client  "fix(legacyvp8channel): update to new olcrtc API "
+[19h ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct pseudo-version timestamp to UTC"
 ```
 <!-- ACTIVITY:END -->
 
