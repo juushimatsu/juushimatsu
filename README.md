@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[9m ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
+[23m ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
 [15h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
 [16h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
-[16h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
-[16h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
+[17h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
+[17h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
 [18h ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
 [4d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
 [4d ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
 [1w ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
-[1w ago]  committed      →  olcrtc-panel-lite  "Add repository cover image"
-[1w ago]  committed      →  olcrtc-panel-lite  "Use Google DNS by default; add DNS presets"
 ```
 <!-- ACTIVITY:END -->
 
