@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1h ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
-[1h ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
-[16h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
-[17h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
-[18h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
-[18h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
-[19h ago]  committed      →  olcrtc-panel-lite  "Add custom panel/subscription URLs & proxy"
-[4d ago]  committed      →  olcrtc-panel-lite  "Scope instance form fields; add sync helper"
-[4d ago]  committed      →  olcrtc-panel-lite  "Add Telemost automation & monotonic uptime"
-[1w ago]  issue closed    →  olcrtc-panel-lite  "Убрать UI панель из публичного доступа"
+[18m ago]  committed      →  Oleglog/Olcrtc_client  "Revert "feat: upgrade olcrtc core to v0.0.0-2026"
+[22m ago]  committed      →  Oleglog/Olcrtc_client  "feat: upgrade olcrtc core to v0.0.0-202608132310"
+[30m ago]  committed      →  Oleglog/Olcrtc_client  "docs: update connection fix plan - clarify legac"
+[51m ago]  committed      →  Oleglog/Olcrtc_client  "chore: bump version to 1.4.11"
+[2h ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
+[2h ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
+[17h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
+[18h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
+[19h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
+[19h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
 ```
 <!-- ACTIVITY:END -->
 
