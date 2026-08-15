@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[18m ago]  committed      →  Oleglog/Olcrtc_client  "Revert "feat: upgrade olcrtc core to v0.0.0-2026"
-[22m ago]  committed      →  Oleglog/Olcrtc_client  "feat: upgrade olcrtc core to v0.0.0-202608132310"
-[30m ago]  committed      →  Oleglog/Olcrtc_client  "docs: update connection fix plan - clarify legac"
-[51m ago]  committed      →  Oleglog/Olcrtc_client  "chore: bump version to 1.4.11"
-[2h ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
-[2h ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
-[17h ago]  issue closed    →  olcrtc-panel-lite  "Не запускаются инстансы после последнего обновле"
-[18h ago]  committed      →  olcrtc-panel-lite  "Fix shellcheck warning SC2318 in install.sh"
-[19h ago]  committed      →  olcrtc-panel-lite  "Use upstream/internal/names/data for name files"
-[19h ago]  committed      →  olcrtc-panel-lite  "Support shared release data (names/surnames)"
+[3h ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
+[3h ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
+[17h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
+[17h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
+[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
+[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
+[18h ago]  committed      →  Oleglog/Olcrtc_client  "revert: rollback olcrtc to stable v0.0.0-2026081"
+[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix(legacyvp8channel): update to new olcrtc API "
+[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct pseudo-version timestamp to UTC"
+[18h ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct olcrtc dependency to upstream hands"
 ```
 <!-- ACTIVITY:END -->
 
