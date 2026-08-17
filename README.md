@@ -71,6 +71,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[4m ago]  issue closed    →  olcrtc-panel-lite  "добавить /path/ для панели"
 [2d ago]  committed      →  olcrtc-panel-lite  "Fix handshake protocol incompatibility (v2/v3)"
 [2d ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
 [2d ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
@@ -80,7 +81,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [3d ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
 [3d ago]  committed      →  Oleglog/Olcrtc_client  "revert: rollback olcrtc to stable v0.0.0-2026081"
 [3d ago]  committed      →  Oleglog/Olcrtc_client  "fix(legacyvp8channel): update to new olcrtc API "
-[3d ago]  committed      →  Oleglog/Olcrtc_client  "fix: correct pseudo-version timestamp to UTC"
 ```
 <!-- ACTIVITY:END -->
 
