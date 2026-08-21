@@ -76,11 +76,11 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [6d ago]  committed      →  olcrtc-panel-lite  "Fix handshake protocol incompatibility (v2/v3)"
 [6d ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
 [6d ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
-[6d ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
-[6d ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
-[6d ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
-[6d ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
-[6d ago]  committed      →  Oleglog/Olcrtc_client  "revert: rollback olcrtc to stable v0.0.0-2026081"
+[1w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
+[1w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
+[1w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
+[1w ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
+[1w ago]  committed      →  Oleglog/Olcrtc_client  "revert: rollback olcrtc to stable v0.0.0-2026081"
 ```
 <!-- ACTIVITY:END -->
 
