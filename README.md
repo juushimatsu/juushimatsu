@@ -73,7 +73,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 ```
 [3d ago]  issue closed    →  olcrtc-panel-lite  "Добавление xray"
 [3d ago]  issue closed    →  olcrtc-panel-lite  "добавить /path/ для панели"
-[5d ago]  committed      →  olcrtc-panel-lite  "Fix handshake protocol incompatibility (v2/v3)"
+[6d ago]  committed      →  olcrtc-panel-lite  "Fix handshake protocol incompatibility (v2/v3)"
 [6d ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
 [6d ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
 [6d ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
