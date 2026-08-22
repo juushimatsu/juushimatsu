@@ -71,8 +71,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[4d ago]  issue closed    →  olcrtc-panel-lite  "Добавление xray"
-[4d ago]  issue closed    →  olcrtc-panel-lite  "добавить /path/ для панели"
+[5d ago]  issue closed    →  olcrtc-panel-lite  "Добавление xray"
+[5d ago]  issue closed    →  olcrtc-panel-lite  "добавить /path/ для панели"
 [1w ago]  committed      →  olcrtc-panel-lite  "Fix handshake protocol incompatibility (v2/v3)"
 [1w ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
 [1w ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
