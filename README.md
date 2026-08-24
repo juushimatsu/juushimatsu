@@ -71,6 +71,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[39m ago]  committed      →  olcrtc-panel-lite  "Delete connection-failure-fix-plan.md"
 [6d ago]  issue closed    →  olcrtc-panel-lite  "Добавление xray"
 [6d ago]  issue closed    →  olcrtc-panel-lite  "добавить /path/ для панели"
 [1w ago]  committed      →  olcrtc-panel-lite  "Fix handshake protocol incompatibility (v2/v3)"
@@ -80,7 +81,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
 [1w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
 [1w ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
-[1w ago]  committed      →  Oleglog/Olcrtc_client  "revert: rollback olcrtc to stable v0.0.0-2026081"
 ```
 <!-- ACTIVITY:END -->
 
