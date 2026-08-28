@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[3d ago]  committed      →  olcrtc-panel-lite  "Delete connection-failure-fix-plan.md"
+[4d ago]  committed      →  olcrtc-panel-lite  "Delete connection-failure-fix-plan.md"
 [1w ago]  issue closed    →  olcrtc-panel-lite  "Добавление xray"
 [1w ago]  issue closed    →  olcrtc-panel-lite  "добавить /path/ для панели"
 [1w ago]  committed      →  olcrtc-panel-lite  "Fix handshake protocol incompatibility (v2/v3)"
 [1w ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
 [1w ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
-[1w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
-[1w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
-[1w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
-[1w ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
+[2w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): use apksigner for APK Signature Scheme "
+[2w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): add debug output and support .EC certif"
+[2w ago]  committed      →  Oleglog/Olcrtc_client  "fix(ci): properly extract RSA certificate file f"
+[2w ago]  committed      →  Oleglog/Olcrtc_client  "fix: restore original legacyvp8channel files fro"
 ```
 <!-- ACTIVITY:END -->
 
