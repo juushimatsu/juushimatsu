@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[51m ago]  committed      →  olcrtc-panel-lite  "Fix wizard auto-advancing to creating_instances "
+[1h ago]  committed      →  olcrtc-panel-lite  "Add comprehensive logging to auto-setup completi"
+[1h ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup wizard hanging: speed up Room ID "
+[1h ago]  issue opened    →  olcrtc-panel-lite  "OLCBOX COMPATIBILITY"
+[1h ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup wizard: show room creation progre"
 [2d ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup: preserve server-captured Room ID"
 [2d ago]  committed      →  olcrtc-panel-lite  "Fix linter issues in auto_setup.go"
 [2d ago]  committed      →  olcrtc-panel-lite  "Fix gofmt: remove trailing blank lines from path"
 [2d ago]  committed      →  olcrtc-panel-lite  "Add first-run auto-setup wizard"
 [1w ago]  committed      →  olcrtc-panel-lite  "Delete connection-failure-fix-plan.md"
-[1w ago]  issue closed    →  olcrtc-panel-lite  "Добавление xray"
-[1w ago]  issue closed    →  olcrtc-panel-lite  "добавить /path/ для панели"
-[2w ago]  committed      →  olcrtc-panel-lite  "Fix handshake protocol incompatibility (v2/v3)"
-[2w ago]  committed      →  olcrtc-panel-lite  "Normalize proxy error message text"
-[2w ago]  committed      →  olcrtc-panel-lite  "Add authenticated browser proxy and SOCKS5 bridg"
 ```
 <!-- ACTIVITY:END -->
 
