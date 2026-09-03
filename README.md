@@ -76,10 +76,10 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [2d ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup wizard hanging: speed up Room ID "
 [2d ago]  issue opened    →  olcrtc-panel-lite  "OLCBOX COMPATIBILITY"
 [2d ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup wizard: show room creation progre"
-[4d ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup: preserve server-captured Room ID"
-[4d ago]  committed      →  olcrtc-panel-lite  "Fix linter issues in auto_setup.go"
-[4d ago]  committed      →  olcrtc-panel-lite  "Fix gofmt: remove trailing blank lines from path"
-[4d ago]  committed      →  olcrtc-panel-lite  "Add first-run auto-setup wizard"
+[5d ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup: preserve server-captured Room ID"
+[5d ago]  committed      →  olcrtc-panel-lite  "Fix linter issues in auto_setup.go"
+[5d ago]  committed      →  olcrtc-panel-lite  "Fix gofmt: remove trailing blank lines from path"
+[5d ago]  committed      →  olcrtc-panel-lite  "Add first-run auto-setup wizard"
 [1w ago]  committed      →  olcrtc-panel-lite  "Delete connection-failure-fix-plan.md"
 ```
 <!-- ACTIVITY:END -->
