@@ -80,7 +80,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [1w ago]  committed      →  olcrtc-panel-lite  "Fix linter issues in auto_setup.go"
 [1w ago]  committed      →  olcrtc-panel-lite  "Fix gofmt: remove trailing blank lines from path"
 [1w ago]  committed      →  olcrtc-panel-lite  "Add first-run auto-setup wizard"
-[1w ago]  committed      →  olcrtc-panel-lite  "Delete connection-failure-fix-plan.md"
+[2w ago]  committed      →  olcrtc-panel-lite  "Delete connection-failure-fix-plan.md"
 ```
 <!-- ACTIVITY:END -->
 
