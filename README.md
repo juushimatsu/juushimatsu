@@ -71,16 +71,16 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[1w ago]  committed      →  olcrtc-panel-lite  "Fix wizard auto-advancing to creating_instances "
-[1w ago]  committed      →  olcrtc-panel-lite  "Add comprehensive logging to auto-setup completi"
-[1w ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup wizard hanging: speed up Room ID "
-[1w ago]  issue opened    →  olcrtc-panel-lite  "OLCBOX COMPATIBILITY"
-[1w ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup wizard: show room creation progre"
-[1w ago]  committed      →  olcrtc-panel-lite  "Fix auto-setup: preserve server-captured Room ID"
-[1w ago]  committed      →  olcrtc-panel-lite  "Fix linter issues in auto_setup.go"
-[1w ago]  committed      →  olcrtc-panel-lite  "Fix gofmt: remove trailing blank lines from path"
-[1w ago]  committed      →  olcrtc-panel-lite  "Add first-run auto-setup wizard"
-[2w ago]  committed      →  olcrtc-panel-lite  "Delete connection-failure-fix-plan.md"
+[1h ago]  committed      →  olcrtc-forge  "feat(app): change applicationId to org.olcrtc.fo"
+[1h ago]  committed      →  olcrtc-forge  "ci: allowlist legacy sample commits in gitleaks"
+[1h ago]  committed      →  olcrtc-forge  "chore: remove unused non-library files from nati"
+[1h ago]  committed      →  olcrtc-forge  "ci: add workflow_dispatch to security checks"
+[1h ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
+[2h ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
+[2h ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
+[2h ago]  forked         →  juushimatsu/olcrtc-forge
+[3h ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
+[4h ago]  committed      →  olcrtc-panel-lite  "fix(instance): omit data path when shared names "
 ```
 <!-- ACTIVITY:END -->
 
