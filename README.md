@@ -78,9 +78,9 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [6d ago]  committed      →  olcrtc-forge  "ci: add workflow_dispatch to security checks"
 [6d ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
 [6d ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
-[6d ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
-[6d ago]  forked         →  juushimatsu/olcrtc-forge
-[6d ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
+[1w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
+[1w ago]  forked         →  juushimatsu/olcrtc-forge
+[1w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
 ```
 <!-- ACTIVITY:END -->
 
