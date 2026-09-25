@@ -73,14 +73,14 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 ```
 [6d ago]  created branch  →  olcrtc-forge  "codex/olcbox-import-contrast"
 [1w ago]  committed      →  olcrtc-forge  "feat: update dark theme to Abyss palette, upgrad"
-[1w ago]  committed      →  olcrtc-forge  "feat(app): change applicationId to org.olcrtc.fo"
-[1w ago]  committed      →  olcrtc-forge  "ci: allowlist legacy sample commits in gitleaks"
-[1w ago]  committed      →  olcrtc-forge  "chore: remove unused non-library files from nati"
-[1w ago]  committed      →  olcrtc-forge  "ci: add workflow_dispatch to security checks"
-[1w ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
-[1w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
-[1w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
-[1w ago]  forked         →  juushimatsu/olcrtc-forge
+[2w ago]  committed      →  olcrtc-forge  "feat(app): change applicationId to org.olcrtc.fo"
+[2w ago]  committed      →  olcrtc-forge  "ci: allowlist legacy sample commits in gitleaks"
+[2w ago]  committed      →  olcrtc-forge  "chore: remove unused non-library files from nati"
+[2w ago]  committed      →  olcrtc-forge  "ci: add workflow_dispatch to security checks"
+[2w ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
+[2w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
+[2w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
+[2w ago]  forked         →  juushimatsu/olcrtc-forge
 ```
 <!-- ACTIVITY:END -->
 
