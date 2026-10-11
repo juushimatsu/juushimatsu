@@ -80,7 +80,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [4w ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
 [4w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
 [4w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
-[4w ago]  forked         →  juushimatsu/olcrtc-forge
+[4w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
 ```
 <!-- ACTIVITY:END -->
 
