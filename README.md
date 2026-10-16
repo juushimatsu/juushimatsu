@@ -77,10 +77,10 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [4w ago]  committed      →  olcrtc-forge  "ci: allowlist legacy sample commits in gitleaks"
 [4w ago]  committed      →  olcrtc-forge  "chore: remove unused non-library files from nati"
 [4w ago]  committed      →  olcrtc-forge  "ci: add workflow_dispatch to security checks"
-[4w ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
-[4w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
-[4w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
-[4w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
+[5w ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
+[5w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
+[5w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
+[5w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
 ```
 <!-- ACTIVITY:END -->
 
