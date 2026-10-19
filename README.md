@@ -71,7 +71,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
-[4w ago]  created branch  →  olcrtc-forge  "codex/olcbox-import-contrast"
 [5w ago]  committed      →  olcrtc-forge  "feat: update dark theme to Abyss palette, upgrad"
 [5w ago]  committed      →  olcrtc-forge  "feat(app): change applicationId to org.olcrtc.fo"
 [5w ago]  committed      →  olcrtc-forge  "ci: allowlist legacy sample commits in gitleaks"
@@ -81,6 +80,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [5w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
 [5w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
 [5w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
+[5w ago]  committed      →  olcrtc-panel-lite  "fix(instance): omit data path when shared names "
 ```
 <!-- ACTIVITY:END -->
 
