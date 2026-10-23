@@ -79,8 +79,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [5w ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
 [5w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
 [5w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
-[5w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
-[5w ago]  committed      →  olcrtc-panel-lite  "fix(instance): omit data path when shared names "
+[6w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
+[6w ago]  committed      →  olcrtc-panel-lite  "fix(instance): omit data path when shared names "
 ```
 <!-- ACTIVITY:END -->
 
