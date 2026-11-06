@@ -72,15 +72,15 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 <!-- ACTIVITY:START -->
 ```
 [7w ago]  committed      →  olcrtc-forge  "feat: update dark theme to Abyss palette, upgrad"
-[7w ago]  committed      →  olcrtc-forge  "feat(app): change applicationId to org.olcrtc.fo"
-[7w ago]  committed      →  olcrtc-forge  "ci: allowlist legacy sample commits in gitleaks"
-[7w ago]  committed      →  olcrtc-forge  "chore: remove unused non-library files from nati"
-[7w ago]  committed      →  olcrtc-forge  "ci: add workflow_dispatch to security checks"
-[7w ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
-[7w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
-[7w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
-[7w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
-[7w ago]  committed      →  olcrtc-panel-lite  "fix(instance): omit data path when shared names "
+[8w ago]  committed      →  olcrtc-forge  "feat(app): change applicationId to org.olcrtc.fo"
+[8w ago]  committed      →  olcrtc-forge  "ci: allowlist legacy sample commits in gitleaks"
+[8w ago]  committed      →  olcrtc-forge  "chore: remove unused non-library files from nati"
+[8w ago]  committed      →  olcrtc-forge  "ci: add workflow_dispatch to security checks"
+[8w ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
+[8w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
+[8w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
+[8w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
+[8w ago]  committed      →  olcrtc-panel-lite  "fix(instance): omit data path when shared names "
 ```
 <!-- ACTIVITY:END -->
 
