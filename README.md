@@ -79,8 +79,8 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [8w ago]  committed      →  olcrtc-forge  "feat: use pure v3 handshake exclusively"
 [8w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
 [8w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
-[8w ago]  committed      →  olcrtc-panel-lite  "fix(automation): add --disable-http2 and resilie"
-[8w ago]  committed      →  olcrtc-panel-lite  "fix(instance): omit data path when shared names "
+[12w ago]  committed      →  olcrtc-forge  "fix(ci): use apksigner for APK Signature Scheme "
+[12w ago]  committed      →  Oleglog/OlConnect  "fix(ci): use apksigner for APK Signature Scheme "
 ```
 <!-- ACTIVITY:END -->
 
