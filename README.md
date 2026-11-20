@@ -71,6 +71,7 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 
 <!-- ACTIVITY:START -->
 ```
+[3h ago]  committed      →  Oleglog/SlopAPI  "feat(admin): add configurable console path and h"
 [9w ago]  committed      →  olcrtc-forge  "feat: update dark theme to Abyss palette, upgrad"
 [9w ago]  committed      →  olcrtc-forge  "feat(app): change applicationId to org.olcrtc.fo"
 [9w ago]  committed      →  olcrtc-forge  "ci: allowlist legacy sample commits in gitleaks"
@@ -80,7 +81,6 @@ Frontend      HTML5  ·  CSS3  ·  Bootstrap  ·  Electron
 [9w ago]  committed      →  olcrtc-forge  "fix(ci): match native/olcrtc replacement path in"
 [9w ago]  committed      →  olcrtc-forge  "feat: rebrand to olcrtc-forge and add v3 handsha"
 [13w ago]  committed      →  olcrtc-forge  "fix(ci): use apksigner for APK Signature Scheme "
-[13w ago]  committed      →  Oleglog/OlConnect  "fix(ci): use apksigner for APK Signature Scheme "
 ```
 <!-- ACTIVITY:END -->
 
